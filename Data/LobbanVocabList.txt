@@ -1,0 +1,200 @@
+# "MEROITIC NUBIA," Millet
+# (Dotted letters transcribed with capitals.  4th H transcribed as 'X'; 3rd H transcribed as 'x'; S-hat transcribed as 'S'; N-tilda transcribed as 'N'; E-hat transcribed 'E')
+# I am including brackets, parentheses, and question marks when the author uses them in order to be as precise as possible.  These can be edited out with a program if necessary.  I am not including captial letters in transcription unless it is one of the alternative characters above.
+
+mge	abundant	ADJ
+dik	after
+porite	agent	N;SG
+apote;epote;apete	ambassador;trade representative;envoy	N;SG
+mnitrqide	Amanitaraqide	N;SG
+mnitore;mnitr	Amanitore;Queen	N;SG
+pedeme	Amara West
+mn;amni;mni;mnis	Amun	N;SG
+mnpi;mnp;mnptes;mnpte;mnpteli	Amun of Napata	N;SG
+mnote	Amun of Note	N;SG
+miym	Aniba	TOPONYM
+nlote	Aniba;Karanog	TOPONYM
+pdmk;pedemk;apedemki	Apekemek (I think actually Apedemak)	N
+qbnysli	Quban	TOPONYM
+adomn	Arminna	TOPONYM
+khrpkhe	a title
+qoreny	a title
+hont	type of priest
+beqe;boqh	Ballana	TOPONYM
+bedewe	Begarawiya	TOPONYM
+terikeli;terikelowi	beget;born of
+qor;qr	chief;king;ruler	N;SG
+mate	child;small	N;ADJ
+pqr	crown prince	N;SG
+qetjyijqe	benefit
+tr	big	ADJ
+plimish;blms;pelamos;plemos;plemos adb-li-s	Blemmyes;military leader of regional military administrator of the land	TITULARY
+plemos ato-li-s	regional military administrator of the water	TITULARY
+mhe;mb	bond;abundant
+dor	book;scroll	N;SG
+at	bread	N;SG
+wi	brother	N;SG
+as	child	N;SG
+atqi	civil title	TITULARY
+beloloke	clergyman;prist	
+amero;ant	clergyman
+mevkdi	daughter	N;SG
+adere;dor	Derr
+ad;adb	Earth
+abu;yeb	Elephantine	TOPONYM
+wtj	equipped for life
+mrozo	eternally
+bk	falcon?
+phrse;phrs;pkhrs	Faras;Pakhoras
+sv	father
+shiremroke	female title	TITULARY
+zvqo	footprint	N;SG
+kos	formula of blessing
+amnbshi	god	DIETY
+ariteny	god	DIETY
+ptroti	god	DIETY
+arokhetye	god	DIETY
+mkdi	goddess;queen
+lkh;lh	great
+aretate	Harendotes
+atari;atriqo	Hathor	DIETY
+armoke;are	Horus;related to Horus
+mlo	head
+pedeme	Ibrim
+shimlok	Ibrim
+sye;siye	Ikhimidi
+yesboxe	incarnation
+dd	infant;son
+ashi;ashy;wos;wosh;woshte;ahwosh;ws;woshi;woshs;woshsli;woshslw	Isis
+simbo	Karanog;Abu Simbel	TOPONYM
+arme	Kerma;Yam;Irem	TOPONYM
+aqedis	Khonsu	DIETY
+akinidd	King Akinidad	ROYAL NAME
+amnkhedolo	King Amanakhedolo	ROYAL NAME
+mnkhble	King Amanikhabale	ROYAL NAME
+khrmdoye	King Kharamadoye	ROYAL NAME
+ntkmni	King Natakamani	ROYAL NAME
+shorkrr	King Shorakaror	ROYAL NAME
+trekendlqo		ROYAL NAME
+akh?niqwi		ROYAL NAME
+tmeqorde		ROYAL NAME
+wyekiyeqo		ROYAL NAME
+tedkhelowi;tdkhelowi;tedkheli		KIN RELATIONS
+qoreyi;qareli;qorisl;qorte;qsh;qshy;qeshto;qeshli;qesh;qsh;kishri;khshlis	Kush;related to Kush	TOPONOYM
+ado	land
+trot	landlords
+adb	land;earth
+lx;lh;lg	large;high	ADJ
+pke;bkeli;wv	life?
+pi	living
+pester	local official
+perite	local official
+plshn	local official
+mak	local ruler
+akin	Lower Nubia;town in
+abr	man	N;SG
+abrleb	men	N;PL
+mashamani;msmni	Mashil;Nubian sun god	DIETY
+mdoye	Medjay
+apov	messenger	N;SG
+khlbiny	military title	TITULARY
+qor	monarch;king
+glabi	month;season
+ste	mother	N;SG
+# next is technically not a king name, but I think close enough for these purposes
+shorkkhror	name of a prince	ROYAL NAME
+yetmde	nephew;cousin
+qowi	noble;great
+tjyij	noble person?
+ptrotislw	Nubian god?	DIETY?
+nobow	Nubians
+nhs	Nubians
+yerexlo	obedient
+twisti	obeisance
+avpo	offer
+msqoros	officer of the queen	TITULARY
+kroro	official
+wid(e)	old	ADJ
+shor;ashoreyi;ashori;sorev;shori;shoreyi	Osiris
+salakhas	palace courtiers
+mnpsleb	People of Aman Napata
+abryeqowi	People of Abrye
+shdosteleb	People of Shdost
+tyesiqowi	People of Tyesi
+horplmo		ANTHROPONYM
+hanptp		ANTHROPONYM
+herpmlo		ANTHROPONYM
+khirettenyyi		ANTHROPONYM
+yiqrekye		ANTHROPONYM
+mkesmeny		ANTHROPONYM
+tyeshinokhoye		ANTHROPONYM
+pkhomekhimeye		ANTHROPONYM
+ptsnoyeqowi		ANTHROPONYM
+pqebete		ANTHROPONYM
+mnhdoke		ANTHROPONYM
+pilqo;pilqe	Philae	TOPONYM
+abesnyye	place
+apmle	place
+tewiseti	prayer formula
+medes	preferred
+wab	priests
+pqtrlo;pqr;pqrtrpo;pqorlike	Prince;royal heir;commander;crown prince
+arikhrorqo;rkrror	Prince Arikakharor	ROYAL NAME
+arakakhtani	Prince Arakakhtani	ROYAL NAME
+pedeme	Qasr Ibrim	TOPONYM
+kdike;ktke;kntiky	queen
+kdakqo;kdiqo	queen mother;royal woman
+amnishete	Queen Amanishete	ROYAL NAME
+amnitnide	Queen Amanitnide	ROYAL NAME
+shnkdkhete	Queen Shanadakte	ROYAL NAME
+amod	Qustul	TOPONYM
+qoresm	spouse?
+tgirl	ring;collar	N;SG
+areme	Rome;Roman
+shiyeteli;shyeteli	Sai	TOPONYM
+skdi	Saqadi	TOPONYM
+ddor	scribe	N;SG
+atitye;atiye;atiy	Sedeinga	TOPONOYM
+kdbj;wide	servant?	N;SG?
+saple	Shablul	TOPONOYM
+shpti	shawabti;helper statue	N;SG
+sleleyte;slele	Shellal (cateract)
+kdis	sister	N;SG
+ari	sky	N
+yere	southern
+sm	spouse	N;SG
+wyeki	star	N;SG
+masha	sun;sun god?
+mlku	temple	N;SG
+qo	title;royal
+ant		TITULARY
+ttnylkh		TITULARY
+shshor		TITULARY
+yerike;erike	to generate	V
+yevke	to calculate	V
+d(e)	to donate	V
+qe	to exist	V
+tedehe	to give birth	V
+kedi	to kill?	V
+dek	to look?	V
+due	to make	V
+erexio	to obey	V
+ple;p	write	to offer	V
+apete	to send	V
+dk	to tread upon	V
+-w	to;towards	PREP
+tbo	two?
+-yotiu;-yu	until	PREP
+pdeu;pesato;pesto	viceroy (of Lower Nubia)	TITULARY
+sdose	Wadi es Sabua	TOPONYM
+ate;ato	water	N
+sem	wife	N;SG
+mtr wse	witness;testimony?
+vjke	West?
+kdi	woman	N;SG
+kditrye		ANTHROPONYM #of a woman
+kdileb	women	N;PL
+sal	word;saying	N;SG
+dto	world	N
+deme	year;ten?
+mv;dg	young person?	N;SG

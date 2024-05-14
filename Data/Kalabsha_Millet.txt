@@ -1,0 +1,46 @@
+# Another transcription of the Kalabsha text by Millet.
+# It can be found on page 272 of his essay "MEROITIC NUBIA".
+# (Dotted letters transcribed with capitals.  4th H transcribed as 'X'; 3rd H transcribed as 'x'; S-hat transcribed as 'S'; N-tilda transcribed as 'N'; H-tilda transcribed as 'H';  E-hat transcribed 'E'; A with a dot transcribed 'A'; capital G as 'G')
+# I am including brackets, parentheses, and question marks when the author uses them in order to be as precise as possible.  These can be edited out with a program if necessary.
+# NOTE:  Millet's 'E' (E-hat) appears to correlate with the Fontes Historiae Nubiorum 'o'
+
+xrmdEye : qEre : ariteNl : mdes : mnitke : mkleb : yereqe : qyitXl : yesbEXe : qrleb : trE s : ariteN : terekelis : dblilx : qrke : qEre : mnpte s : lw : qEreyi : tx : mnEte : s : lw : txNyi : qr : ariteNlis : lw : qrNyi : SEb : xlbi : lis : lw : SEbNyi : tx : mnEteslw : txNyi : arette : wESslw : xiretteNyi : xrpxe : mkedE kelislw : xrpxeNyi : teris : mnpte : pdXEs : tlE lis : kidketet : yismeniye : qErelX : yetElxe : yiti 4 yEtE : ptpEtekye : able : ywitE : swide : aqtEye : tepke : yed : mkl : te pke : yeyk : wyed : tepke : pyk : xiwr : adE : ws : pXrs : tdEmN : aSy : kedebxeky : qEretik : dik : pilqeyte : bqEk lkS : SqyeS : nsdEkeS : temeyyeS : nxbreS : bqEbx SimlEk : dik : pilqeyte : bqEl : prE : dEle : penn : tlte : br : pxiNl : bxemi : yedet : byekelx dik : kdimlEye : Sqkdi : ptpEt 1 yismeniye : ysbet : berSEwi : mte : ws : ayekenl : ytpEte : yed : ykle : arEXetye : nle : dElk mtel : pikedelwi : yed : ptpEtekye : wikdiwikete :
+
+ mte ws qErX : txNye : tklwi : ysbete : bereknwi : x rpxe : detelxl : weN : yed : wEpike : til yeyki : brleb : kedebx : kdileb : mrErleb : SSleb : kbb te : pdXEs : lXleb : yexEyke : yetete : mrErbe : qe Sw : adereke : mtr : ws : Xrw : pilqeke : mtr : ws : qEre 8 Xres : wteb : axi : de Skle : dete : wedi : dxe : mte kdi : aqtEyes 2 w bqEb te : widE : xreSyeqE : wide : yisxteteyeqE : bqE bx : smle : wSi : tkbte : Ste : wes : bqEbte : SimlEk : dik sleleyte : mXE : temey : nsdEke kdi a br : nxbreS kbx : mXEli : temeyli : dk : prE : dEle : plw : penn : tlte : br : pXEle : bxemi : yedet : Xrw : adEnilikete : yireqw : a rw : terekete : Xrw : sleleke : mtr : ws yire qw : ade.leke : mtr : ws : qEre : ptSide : tmEt : m....eS : ..plN ptmkide : tmEt : aritele : wE ple
+
+
+# here are parts of the text that are translated by Millet:
+
+# translation on pg. 303
+xrmdEye : qEre : ariteNl : mdes : mnitke : mkleb : yereqe : qyitXl : yesbEXe : qrleb : trE s : ariteN : terekelis : dblilx : qrke : qEre : mnpte s : lw : qEreyi : tx : mnEte : s : lw : txNyi : qr : ariteNlis : lw : qrNyi : SEb : xlbi : lis : lw : SEbNyi : tx : mnEteslw : txNyi : arette : wESslw : xiretteNyi : xrpxe : mkedE kelislw : xrpxeNyi : teris : mnpte : pdXEs : tlE lis : kidketet : yismeniye : qErelX :	xrmdEye the king, direct descendant of ariteNl, created? of amani; whom the gods exalt?, yesbEXe of the great cycle (of dblilx; king on behalf of? amanapate the mighty king, tx on behalf of? amanEte the mighty tx, qr-prince? on behalf of? ariten SEb, tx on behalf of? amanEte the mighty tx, harendotes on behalf of? isis, the mighty nurse?? of harendotes, (and) ruler on behalf of? makedEke the mighty ruler; he has offered (this monument? of? amanpate the tlEli of the enemy??.  yisameniye, the great king,
+
+#yetElxe : yiti 4 yEtE : ptpEtekye : able : ywitE : swide : aqtEye : tepke : yed : mkl : te pke : yeyk : wyed : tepke : pyk : xiwr : adE : ws : pXrs : tdEmN :
+
+# pg. 304
+aSy : kedebxeky : qEretik : dik : pilqeyte : bqEk lkS : SqyeS : nsdEkeS : temeyyeS : nxbreS : bqEbx SimlEk : dik : pilqeyte : bqEl :	after?? they had?? slain many??, he ruled as far as qUrta all the way from philae, (and) he ruled the lak-people, the Saqa-people, the nasadEke-people, the temeya-people, (and) the naxabar-people, (who?) ruled as far as SimalE all the way from philae.
+
+#prE : dEle : plw : penn : t lte : br : pxiNl : bxemi : yedet : byekelx dik : kdimlEye : Sqkdi : ptpEt 1 yismeniye : ysbet : berSEwi :
+
+mte : ws : ayekenl :	the mte of the land? ayekenal,
+
+#ytpEte : yed : ykle : arEXetye : nle : dElk mtel : pikedelwi : yed : ptpEtekye : wikdiwikete :
+
+mte ws qErX : txNye :	the mte of the land?, qeraXtaxNaye,
+
+#tklwi : ysbete : bereknwi : x rpxe : detelxl : weN : yed : wEpike : til yeyki :
+
+brleb : kedebx : kdileb : mrErleb : SSleb : kbb te : pdXEs : lXleb : yexEyke : yetete : mrErbe : qe Sw : adereke : mtr : ws : Xrw : pilqeke : mtr : ws : qEre 8 Xres : wteb : axi : de	they slew the men, they carried off? the women, the elderly persons??, (and) the young persons??, he? yexEyxe'd the great ones of the enemy?? (and) yetete'd old folk??.  cushwards as far as adere, the boundary?? of the land?, northwards as far as philae, the boundary?? of the land?, eight kings of the north of the land? sent?
+
+#Skle : dete : wedi : dxe :
+
+mte kdi : aqtEyes 2 w bqEb te : widE : xreSyeqE : wide : yisxteteyeqE : bqE bx : smle : wSi : tkbte : Ste : wes : bqEbte : SimlEk : dik sleleyte : mXE : temey : nsdEke kdi a br : nxbreS kbx : mXEli : temeyli : dk :	the mte-lady of aqtEye ruled two lands?, the consort?? waSi?? received the widE?? which the noble xareSaye had ruled, and the widE?? which the noble yisaxteteye had ruled, and (so) she ruled NUMBER (of) aruras?? of land? as far as SimalE all the way from salele.  (when) a maXE, a temeya, (or) a nasadEke carries off? a woman (or) man of the naxabar-people, that maXE or that temeya shall give (that person) up??.
+
+#prE : dEle : plw : penn : tlte : br : pXEle : bxemi : yedet :
+
+Xrw : adEnilikete : yireqw : a rw : terekete : Xrw : sleleke : mtr : ws yire qw : ade.leke : mtr : ws : qEre : ptSide : tmEt :	the northland he adEnili's; the southland he arw : tere's northward as far as salele, the boundary?? of the land?, southward as far as ade.le, the boundary?? of the land?.  may the king ....... trule,
+
+#m....eS : ..plN
+
+ptmkide : tmEt :	may he be powerful/divine, truly,
+
+#aritele : wE ple

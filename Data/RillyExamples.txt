@@ -1,0 +1,40 @@
+# MEROITIC_EXAMPLES_RILLY
+# (Dotted letters transcribed with capitals.  4th H transcribed as 'X'; 3rd H transcribed as 'x'; S-hat transcribed as 'S'; N-tilda transcribed as 'N'; H-tilda transcribed as 'H';  E-hat transcribed 'E'; A with a dot transcribed 'A'; capital G as 'G')
+# I am including brackets, parentheses, and question marks when the author uses them in order to be as precise as possible.  These can be edited out with a program if necessary.
+# NOTE: some translations may contain unknown Meroitic words, or Meroitic names.
+
+# TRANSLATED WORDS/PHRASES
+
+ntke l-bx-te	give them strength
+qesto	Kushite	PEOPLE GROUP
+
+# pg. 92
+wos-i : sorey-i	Oh Isis! Oh Osiris!
+qo adeliye-qowi	This is Adeliye
+apily : tedxe-lowi : telepol : terike-lowi	Apilaye bore her, Telepula begotten her.
+pqr-leb : yetmde-lo :	she was related to vizirs
+peseto-leb : yetmde-lowi :	she was related to viceroys
+mlomrse : nlotet-lowi	she was a national of Nalote
+ato mXe : pso-Xe-kete :	abundant water, can you pour it
+at mXe ps-xr-kete	abundant bread, can you give to her
+x-mlo-l : p-Xol-kete :	a good meal, may you grant her
+mlo-lo :	this was a womman of value
+
+
+# ----------------------------------------------------------------
+
+
+# UNTRANSLATED WORDS/PHRASES
+
+abeseye		ANTHROPONYM
+mHeye		ANTHROPONYM
+dsdye		ANTHROPONYM
+doke-li;doke	ANTHROPONYM
+doketone		ANTHROPONYM
+setki;sitkid;sitkemoli		ANTHROPONYM
+qeremye		ANTHROPONYM
+ktoye		ANTHROPONYM
+tneye;tneyi		ANTHROPONYM
+terite-qse;terit-nide;terite-dxetey		ROYAL ANTHROPONYM
+tekye;tekeye		ANTHROPONYM
+

@@ -1,0 +1,1447 @@
+# "MEROITIC NUBIA," Millet
+# (Dotted letters transcribed with capitals.  4th H transcribed as 'X'; 3rd H transcribed as 'x'; S-hat transcribed as 'S'; N-tilda transcribed as 'N'; H-tilda transcribed as 'H';  E-hat transcribed 'E'; A with a dot transcribed 'A'; capital G as 'G'; 'm', 'b', 'y', 'a', 'q', 'w', 'i', 'r', 'k' and 't' with a dot underneath transcribed as 'M', 'B', 'Y', 'A', 'Q', 'W', 'I', 'M', 'R', 'K', and 'T' respectively)
+# I am including brackets, parentheses, and question marks when the author uses them in order to be as precise as possible.  These can be edited out with a program if necessary.
+# NOTE: some translations contain unknown Meroitic words, or Meroitic names.
+
+#TRANSLATED WORDS/PHRASES
+
+#pg. 14
+(a)tbE	two
+# following are suggested meanings:
+atbe	two
+axrE	region;country
+
+# pg. 21
+teriteqs	Teriteqas, king
+qEre : tre	Tarenas, kdwe-lady
+akidd [: p] qr	Aki(ni)dad, crown-prince
+
+# pg. 25
+SSimete	steward	TITULARY
+apEte	envoy
+
+# pg. 33/34
+pelmES atE-li-s	general of the water
+pelmES	strategos;general
+pelmES adb-li-s	general of the desert(?)
+
+# pg. 36/37
+peste-akiN-te	prince in AkiN	TITULARY
+pestE	son of the king	TITULARY
+pqr qEris	royal crown-prince	TITULARY
+qEre-sm	royal consort	TITULARY
+
+# pg. 39
+kdke	queen-mother	TITULARY
+
+# pg. 41
+belElEke	type of priest	TITULARY
+pelmES-lx	chief general;senior general	TITULARY
+
+# pg. 54
+xrpxN pXrs-te	governor of Faras	TITULARY
+
+# pg. 56
+adb	desert?
+
+
+# pg. 58/59
+pXrs	Faras	TOPONYM
+teN	ShablUl	TOPONYM
+atiye	Sedeinga	TOPONYM
+
+# pg. 60
+amEd;mEd		TOPONYM
+wyekite		TITULARY
+aXrrb : tketEre-te-li : aXrrb : amEd-te-li : tereki : tk-bxe-lE :	(for/to whom) the aXrrb in taketEre (and) the aXrrb in amEd tk a tereki
+-bxe		DATIVE;PL
+tk-bxe-lE		VERB;SUBJECT;PL
+-lE		SG
+
+# pg. 61
+apEte arEme-li-s	envoy of Rome;envoy to Rome
+qEre mXE-li-s-l	the king of maXe (-land or people) TITULARY
+
+# pg. 65
+ttN-lX-pelmES-li-s	chief ttN of the general	TITULARY
+
+# pg. 70-73
+kdis;kdite	sister
+Ste	mother
+wi	brother
+sm	wife
+kdi	lady;woman	N;SG
+pestEl kdis-lE-wi	kdis of the pestE
+tedxe	born of
+qEre-sm	royal wife
+
+# pg. 77
+xrpxli	governor
+pelmES atEliteb	generals of the river
+
+# pg. 97
+Ste-li qEre-sm-lE	(whose) mother was a royal wife
+
+# pg. 103
+pelmES adblis	general of the desert	TITULARY
+
+# pg. 108
+pelmES adblis atkitnideye kdite-lE-wi	sister of the general of the desert, atankitanideye
+pelmES adblis adilemEme kdite-lE-wi	sister of the general of the desert adilemEme
+qntk-leb kdite-lE-wi	sister of the qntk-persons
+xrpxN pxrs-te pteremEtiye kdite-lE-wi	sister of the governor in paXaras, pateremEtiye
+apEte arEme-li-s aqemlEye yet-mde-lE-wi	related to the envoy to rome, Xatapiye
+apEte-kdi yitki-te-lE-wi	lady of envoy-rank in (the place called) yitaki
+pelmES-leb apEte-leb xrpx-leb kdite-bes-lE-wi	sister of the generals, the envoys, and the governors
+
+# pg. 110
+apEte-kdi yitki-te	lady of envoy-rank in yitaki
+
+# pg. 112
+lky mrde pestE-li-s-li-mrde pelmES-li-s-li kelw xrpxe-bxe-li yet-mde-leb-k-we	related to ..lkye (who is) both (kelw) mrde of the prince and mrde of the general who are -the rulers (xrpxe-bxe-li)?
+
+
+# pg. 115-117
+tbE	two;both
+atmtl-tbE	the two (persons named) atamatal
+Stmdes pestElis	Stmdes of the prince	TITULARY
+Stmdes	kingsman (of the prince)
+S-(ye)t-mde-s	person of relationship
+pestE-leb kdis-lE-wi	sister of the pestE-princes
+
+
+# pg. 120
+yetmet-lXl	big yetmet
+pqr qEris atmetN tbE	the two crown-princes (named) atmetN
+
+# pg. 121
+pqr yetmet-lX-l	the crown-prince yetmet the bigger (or elder)
+pestE-leb	the prince
+yetmetN-mete-l	yetmetN the lesser (or younger)	ANTHROPONYM
+belElEke-leb	the belElEke-priests(?)
+SlXS mnp-s-l sm-lE-wi	wife of the SlxS of Amanap;qEqEli
+
+# pg. 122/123
+pqr-l yet-mde-lE-wi	related to the crown prince
+kdi-qE	noble lady
+yetm.tl	the crown prince EtametaN
+pestE .i:krEr	the prince .i-karEr (a name??)
+xrpxN pXrs-te-l	the governor of PaXaras
+at mSE tqEye	MaS, taqEye
+pestEl wi-lE-wi	brother (?) of the prince
+
+# pg. 124
+pestE-l	the prince
+belilEke npte-l	the belilEke-priest (?) in Napata (?)
+belilEke mnp-s-l	the belilEke-priest (?) of Amanap
+
+# pg. 130/131
+pqr-l yet-mde- lE-wi	related to the crown-prince
+peStE-l kdis-lE-wi	sister of the prince
+belElEke kdis-lE-wi	sister of the belElEke-priest(?)
+
+# pg. 138
+peStE-l yet-mde-lE-wi	yet-mde of the prince
+peStE-l wi-lE-wi	brother (?) of the prince
+
+# pg. 145
+pqr tlmenkeli	crown prince tlmenkeli
+
+# pg. 148
+ant mnp-s	prophet of amanap
+
+# pg. 149
+Stmde [s pestEli-tE]wi	Stmdes of the prince (?)	TITULARY
+ant mnptEwi	prophet of amanap	TITULARY
+wi	brother
+
+# pg. 151
+temey-lX	chief temey	TITULARY
+trEs	parent
+
+# pg. 152
+trq-[l]h-li	big taraq
+[t]rq-mete-li	little taraq
+?kdite-lX	elder sister
+
+# pg. 154/156
+temey-kdi-lX	great (or senior) female temey	TITULARY;FEMININE
+pestE-li-s	of the prince
+
+# pg. 158
+(ye)t-mde-s	yet-mde-person;kinsman par excellence
+
+# pg. 159
+xbxN-lX	chief xbxN
+xbxN-qEris	royal xbxN
+
+# pg. 162
+wES mkdi-lX;wES mk-di-lX	Isis, the great goddess
+
+# pg. 170
+S-qE	noble person, noble man
+qE-leb	images;statues
+a...kye : qEleb yikidbite	(the person named) a...kaye donated the qE's
+
+# pg. 174/175
+xrpxN	governor
+Stmdes teN-te	kinsman-of-the-prince in teN
+ant mnp-s	prophet of amanap
+SSimete kdke-li-s	steward?? of the queen-mother
+xbxN-lX	chief relative-of-the-general
+
+# pg. 176
+adb	desert
+pelmES adblis
+ttN	reading?
+ttN-lX	great ttN
+
+
+# pg. 178
+mrde pestE-li-s-li		TITULARY
+mrde pelmES-li-s-li kelw xrpxe-bxe-li		TITULARY
+mrde-qEris	king's mrde
+
+# pg. 180
+Smt-lX qEris	chief Smt of the king
+ktke-li-s	queen mother
+
+# pg. 183
+at-mSE	prophet of maS
+
+# pg. 185/186
+keN 6 : Snswe(?) pennE	year 6, (month of) Sansawe (??), pennE
+qeren penni-li-s-le	qeren of the penni
+plsn qbnti penn 5 ni yetekele;plsn qbn-s-li penn 5 ni	the high-priest of the qbn (of) the 5th pennplsn	high priest
+
+# pg. 198-201
+S	person;man	N
+temeyli;temeyye	the temeya-man	N;MASCULINE
+temeykdiye	the temeya-woman	N;FEMININE
+armikdi;armi-kdi	the Roman woman?
+mXE-s	of maXe
+temey-lX	great temeya-person;chief of the temeya
+
+# pg. 211
+nxbr	naxabar	PEOPLE GROUP
+aderte	at adere
+
+# pg. 226
+pqr : yetmet-lXl : yetmdelEwi : yetmetN - metel yetmdelEwi :	related to the crown prince yetmet-lXl, related to yetmetN-metel
+
+# pg. 227
+tbE	two
+aSEri pilqeteleb tbE yinitxe-bs-lE	she yinitxe'd the two osirises-in-philae
+aSEri tebweteli y(i)nitxe-lE	she yinitxe'd Osiris-in-the-abaton
+tewisti : pelmESl : yetmde : apEte yeSE : dilXl-tbE : wES : pilqetel : wES tebwetel : N-bes-lw yeberwi : yiwri yipnE wES mkdi-lX kSbn wES sbtE	adoration which the relative of the general, the envoy, made unto ?? (N-bes-lw) the two great ladies, (namely) isis-in-the-abaton and isis in philae
+di-lX-tbE
+
+# pg. 229-232
+mdes	direct descendant?
+mde	to be related (to a person) in general
+mk-s	goddess?
+mk	diety;god
+SSimete	SSimete-officer
+abrite	brother??
+(a)br	man
+teris;terite	memorial;offering;monument?
+aleqes
+qErete	kinglet?
+Ste	mother
+S-mks	person of (the) god?
+
+# pg. 233
+baNt(i)	dancing;a dance	N
+baN	to dance	V
+kutti	elevated ground	N
+kud	to rise	V
+art(i)	god	N
+ar	sky?	N
+Sart(i)	iron	N
+Sa	spear	N
+iSkart(i)	a guest	N;SG
+iSkari	guests	N;PL
+tort(i)	half
+tOd	small (one)
+
+# pg. 234
+ate mXe p(i)-S-te	SG
+ate mXe	p(i)-SE-X	SG
+ate mXe	p(i)-SE-X-te	SG
+ate mXe p(i)-SE-ke-te	SG
+ate mXe p(i)-SE-Xe-ke-s	SG
+ate mXe p(i)-SE-Xe-ke-te	SG
+ate mXe p(i)-SE-bx-te	PL
+ate mXe p-SE-Xe-b	PL
+ate mXe p(i)-SE-Xe-bx-te	PL
+ate mXe p(i)-SE-Xe-bx-ke-s	PL
+ate mXe p(i)-SE-Xe-bx-ke-te	PL
+
+# pg. 238-240
+krErE-li : yi-kid-ke : mete : areqi-s	the (a)krErE offered? a small areqi, one
+a ... kye : qE-leb yi-kid-bite	(and) a ... kye offered? the images
+-bite		PL;RESUMPTIVE
+-k	meaningless
+ate mXe pi-Si-Xe-bx-kes;ate mXe pi-Si-Xe-bx-kes	may they (the deceased persons) Si-Xe much? water?
+wESi : aSEreyi tsmereX-qE : peStE-lE : dadye : edx-lE : ant : bleli : erike-lE : atE mlE : elxte : at mlE : ixrkte : wESi : aSEreyi :	o isis and osiris, so-and-so will receive?? good water, (and) he will eat?? good bread??, o isis, o osiris!
+wESi SEreyi n-qE-wi : ... atE mXe piSiXekete ...	o isis, o osiris! it is the noble n; ... may he drink?? much? water ...
+
+# pg. 243
+di-lX-tbE wES pilege-te-l wES tebwe-te-l N-betw	in the presence of? the two great ladies isis in philae and isis in the abaton
+aSEri pilqe-te-leb tbE yini-txe-bte	the two (forms of) osiris-in-philae she yini-txe'd
+
+# pg. 245
+a....kye : qE-leb : yi-kid-bite	a....kaye offered the images? .....
+
+# pg. 247
+mk-lX-li	o great god
+
+# pg. 251
+wEmNs-lX pilege-te-lE, ant qEri-s-lE	chief wEmnis in philae; prophet of the king
+Sqte-lX0lE	chief Sqte?
+
+# pg. 252/253
+qE krErE bekemete	the noble one, the akrErE, bekemete
+mte pelmES atElit yerike-lE	begotten of the mte (and) general of the water
+mnis mte	mte of amani
+pestE-lE :	pestE-prince
+pelmES adb-li-s-lE	general of the desert ??
+qE xbxN mStrqye qE perite wEStE	the noble one, the xbxN-officer mStrqye, the noble one; the agent of isis
+mStrq qE qEreN pEnnilitE	mStrq, the noble one, the qEreN of the pEnni
+
+# pg. 255
+t-dxe mlEqErebr qEre-s-l lXidmni	the mother? of mlEqErebr the king, lXidmni
+
+# pg. 256
+pelmES atEli-s	general of the water	TITULARY
+pelmES atE-li-t	the (particular) general of the water	TITULARY
+
+# pg. 261
+arE (l) trEs-	the mother of horus;isis
+p-trEs-l	the mother of p
+p	royal child;divine child
+
+# pg. 263
+pki wES pilqe-te-li-s-li wi wES tebwe-te-li-s-li wi aSy axe mrxe-bs-lE	she mrxed'd the pki of isis-in-philae - one - (and the pki) of isis-in-the abaton -one- (adverbial phrase)
+xbxeN qEri-s mStrq qE ye-te-bxe	the xbxeN-officer of the king, mStrq, the noble one, -------'d
+
+# pg. 266/267
+xbxN wES qer : qE mStrqye qE : wESi yntke pipl : pxilX : pli : ptrEti : pipn : pbx :	o isis, who saves/gives life, may he (mStrq) apl, may he axilX, may he ali; o patrEs, may he apn, (and) may he perform/carry out (his duties??)
+qE apmlE qE pelmES adlitE :	the noble apmalE, the noble one; general of the desert??
+qE pelmES atElis mnitwwi qE	the noble general of the water, mnitwwi, the noble one
+qE krErE bekemete-lE peste-lE	the noble (a)krere bekemete, the peste-prince
+qE krErE bekemete-lE pelmES adblitE	the noble (a)krErE bekemete, general of the desert??
+
+# pg. 268
+qE mStrqEye wES qer-lE	the noble mStrqEye, qer of isis
+qE xbxe-lX mStrqye qE	the noble chief xbxeN-officer, mStrqye, the noble one
+qE qEreN wES-s perite wES-s wES qer mSt.q : yewi wESi yntke-lw pibr pXe qEleb kSbn wES sbtE SkelnxeN	the noble qEreN of isis, the agent of isis, the qer of isis, mStrqye
+
+# pg. 271
+yetmde	related to
+
+# pg. 275
+temey lX : bereqedE-li : trEs-lEwi :	trEs (of) the chief temeya, bereqedEli
+arEl-trEs	parent of horus
+
+# pg. 277/278
+aNyi	great;foremost
+xi-(a)rette-Nyi	(isis) the mighty? one (who is) xi (of) arentate
+teris : mnpte : pdXEs : tlElis : kidketel :
+
+# pg. 281
+pdXE	enemy;(enemy) army;(enemy) region?	N;SG
+pdXEs : lXleb : yexEyke :	he ------ed the great ones of pdxE
+
+# pg. 285/286
+adE : ws :	the ade of the land??
+kede	slay	V
+aSy	many
+bqE	rule;hold	V
+qeSw : adereke : mtr : ws : Xrw : pilqeke : mtr : ws :	cush-wards to adere ..... northwards to philae .....
+aSy : kedebxeky : qEretik : dik : pilqeyte : bqEk :	after they had slain many, he ruled (of the area reaching) to qUrts all the way from philae
+
+# pg. 288
+lkS : SqyeS : nsdEkeS : tmeyyeS : nxbreS : bqEbx : SimlEk : dik : pi.qeyte : bqEl	the lak-people, the Saqa-people, the nasadEke-people, the temeya-people (and) the naxabar-people, who rule (the area reaching) to SimalE all the way from philae, he ruled.
+
+# pg. 290/291
+Sqkdi	woman of the saqa-people
+mte : ws : ayekenl :	the mte of the land??, ayekenal
+mte ws : qErX : txNye	the mte of the land, qEreX-taxNaye
+brleb : kedebx : kdileb : mrErleb : SSleb : kbbte :	the men they slew; the women, the elderly persons?? (and) the young persons?? they carried off
+
+# pg. 292/293
+pdXEs : lXleb : yexEyke : yetete : mrErbe :	the great ones of the enemy?? he yexEyke'd, (and) he yetete'd youths??
+qEre 8 Xre-s w-s-leb	eight kings of the north of the land?
+
+# pg. 294-297
+mte : kdi : aqtEyes : 2 w bqEbte	the mte-lady of aqtEye rules/ruled two lands
+widE : xreSyeqE : widE : yisxteteyeqE : bqEbx : smle : wSi : tkbte :	the widE (which) the noble xareSaye (ruled) (and) the widE (which) the noble yisaxteteye ruled, the smle waSi received??; the smle waSi received??? (tk) the widE which the noble xareSaye (had) ruled and the widE which the noble yisaxteteye (had) ruled
+# note: the '0' in the next line is in place of an unknown number
+Ste : wes : 0 : bqEbte : SimlEk : dik : sleleyte :	(and) she rules 0 Ste of the land?? to SimalE all the way from salele
+Ste	aroura
+
+# pg. 298/299
+mXE : temey : nsdEke : kdi abr : nxbreS : kbx : mXEli : temeyl : dk :	(if/when) the maXE, the temeya (and/or) the nasadEke carry off a woman (or) a man of the nahabar-people, she (will) punish the maXe (and/or) the temeya;(if/when) the maXE, the temeya, (or) the nasadEke carry off a woman (or) a man of the naxabar-people, the maXE or the temeya (involved) will give up (that person)
+
+# pg. 305-307
+wESi SEreyi qE ....... niye qEwi Stmdes p(este) lis mXeye : terikeli : terik(e) lEwi xbxeNkdi : lw : arete : a.bEteli : yiqeliteli : tedxeli tedxeli : tedxelEwi : pElmES a tElite(b) : yetmdelEwi lX : mEdliteb : ytmde : qebetEwi : per(i)te : wESteb : qE : reN : wEStebyetmde : qebetEwi : mlElEwi : mlEmrs pXrstelEwi : atE mXE : piSiXekes at (m)X(ep)i(Si)xrkes :	o isis! o osiris!  the noble ....... niye, the noble one; begotten, begotten of the Stmdes of the prince, mXeye, and born, born, born of the lady of xbxeN-rank, the arete? in abE??, yiqeliteli, related to the generals of the river, related to the great ones of mEd, related to the agents of isis and the qEreN's of isis, the good?? ones, good of mr in pXrs, (formulae a and b)
+
+arete abEteli	the arete in abE??
+lX-mEd-li-s-leb	(related to) great ones of mEd	TITULARY
+
+Smt-lX qEriti :	the great Smt-officer of the king (qEri-s-li)
+
+# pg. 308/309
+qE		the noble one
+aSE-de	(he) made (it)
+
+# pg. 309
+wES weNyi Nqeli SE ri q[etr]ri. qE : xrpx . : p.rstl : dikes qEwi a[tE m]Xe : piSiXe(ke)s : at mXe : piSixrkes	o isis wetNyiNqel!  o osiris qetrr!  the noble governor in paXaras, dikes, the noble one. (formulae a and b)
+
+# pg. 313
+]s 10 kelw axide[	and 10 .....'s he sent?
+kelw	and;as well as	CONJUNCTION
+axide	sent;donated	V
+
+# pg. 314/315
+p-mete	the little royal child?
+
+# pg. 318
+t-dxe mlEqErebr qEre-s-l lXidmni	the mother of mlEqErebr the king, lXidmni
+
+# pg. 321
+aXrrb : tketEre-te-li : aXrrb : amEd-te-li : ter eki : tk-bxe-lE	(he is one for whom??) the axrrb in tketEre and the aXrrb in amEd tk the tereki??
+
+# pg. 324
+ms wES-s XlXi-li-s-lE-wi	ms of isis (and) of XlXili
+
+# pg. 325/326
+[temey-lX] dbre-te S-qEye ye[tmde]lewi	related to the chief of the temeya in dbre, SqEye
+S-qE-ye	the noble person	ANTHROPONYM
+Ste-li ... eteliye-te-lE-wi :	(whose) mother was ...... in teliye??
+wESi : SEreyi : qE : xrpxN : pXrste belileye qEwi b..........	o isis!  o osiris!  the noble governor in pXrs, belileye, the noble one,[
+
+# pg. 327
+mlE XtEXe-lE-wi	the good one, the good and XtEXe one?
+mlE mr [....]itEwi : mlE mrs pXrstelEwi :	good of mr of -----i, good of mr in pXrs
+
+# pg. 328
+......r-lX pestE[lis]	chief ...... of the prince	TITULARY
+
+# pg. 329-331
+wESi : SEr[e yi : qe] pte.Eye qewi : ameqemeteye tedxelEwi : adilxeyye : terikelEwi : wEmnitX Sklte.lxeye yetmdelEwi wEmnitX brtEye yetmdelEwi : wEmnitX : SkltesskemXer : yetmdelEwi : wEmnitX : Sklte : tNlxe : arEr : yetmdelEwi : wEmnitX Sklte dkelikeye yetmdelEwi : SmlE adeqeyitbre : yetmdelEwi : aribet : tpEteNteli : yetmdelEwi : aribet sskemxr yetmdelEwi : aribet : wetemtr : yetmdelEwi : aribet yete kemxr : yetmdelEwi : aribet : tedeqeli : ble : yetmdelEwi : wEmnitX : deletenkeli : yetmdelEwi : SmlE : nkbli : yetmdelEwi qEresmle : mXli : kde : mdetEwi : qEre smle : mlidns : mdetEwi : ateqi : atiyete twteNtkeli : yetmdelE [w]i ateqi : mklisye yetmdelEwiateqi : sbewyenkeli : ateqiSitkemEli : ateqi : adEtrqli : pqr : tlmenkeli belElEke : abyetli belElEke dskemxr belElEk[e] qEriteyli ateqi : trqye.yetmde aqebetEwi	o isis!  o osiris!  pte.Eye, the noble one, born of ameqemeteye, begotten of adilxeyye, related to the chief wEmnis in Skl, .lxeye, related to the chief wEmnis brtEye, related to the great wEmnis in Skl, sskemXr, related to the chief wEmnis in Skl, tNlxearEr, related to the chief wEmnis in Skl, dkelikeye, related to the 'good person' adeqeyitbre, related to the aribet tpeteNteli, related to the aribet sskemxr, related to the aribet wtemtr, related to the aribet yetekemxr, related to the aribet tedeqelible, related to the chief wEmnis deletenkeli, related to the 'good person' nkbli, directly descended (?) from the royal consort mXlikde, directly descended (?) from the royal consort mlidns, related to the ateqi in atiye, twteNtkeli, related to the ateqi mklisye, related to the ateqi sbewyenkeli, the ateqi SitkemEli, the ateqi adEtrqli, the crown-prince tlmenkeli, the belElEke abyetli, the belElEke dskemxr, the belElEke qEriteyli, and the ateqi trqye.
+S-mlE	good person
+S-mlE : sm-lE	wife of a good person
+
+
+# pg. 332-335
+wES wetNyiNqeli Seriqetrri qe kdiqEreye qEwi : pedeqinye tdxelEwi : apEte abryeterikelEwi mrebqE SlEtey : li ye tmdelEwi mrebqE : x.lEnk : yetmdelEwi mrbqE bEqterel : kditelEwi ant mnE tmNteleb : kditeqebetEwi : wkite tmNteleb SteaqebetEwi SEni tmNte : brmeteyetmdelEwi .d : knmre kdiyEsmli yirEXetelEwi wretXn : tmNtelEwi wES : wetNyiNqeli : SEri qetrri : qE : mliye qEwi : kdiqErEyetedxelEwi : styeSiye : terikelEwi : mrebqE : kttrelebmrebqE : qErEteb : kelw : yetmde aqebetEwi : xrpxN pXrsteaxdeye smlEwi : ant : tmNteleb : yetmdelEwi : wkite tmNteleb : SEni tmNteleb : y[et]mdelEwi : mlElEwi atE mXe bi [Si]Xekes : atmXe biSixrkes :
+SEr qErEdeli yrEXete-lE	o isis wetNyiNqel!  o osiris qetrr!  the noble kdiqErEye, the noble one, born of pedeqinye, begotten of the envoy abrye, related to the mrebqE-priest SlEteyli, related to the mrebqE-priest x.lEnk, sister of the mrebqE-priest bEqterel, sister of prophets of amani in tmN, mother of wkite-priests in tmN, related to the SEni-priest in tmn, brmete, ....... of the nmre-lady kdiyEsmli, "great-lady-of-music" in tmN.  o isis wetNyiNqel!  o osiris qetrr!  the noble mliye, the noble one, born of kdiqErEye, begotten of styeSiye, related to both mrebqE-priests kttre and mrebqE-priests of the king, wife of the governor in pXrs, axdeye, related to prophets in tmN, related to wkite-priests in tmN, related to SEni-priests in tmN, the good one, ...
+SEr	book
+kelw	as well as;also
+
+# pg. 335-338
+wESi : SEreyi : qE : widelXye qEwi : apN : blye : terikelEwi : akdiye : tedxeli : tedxelEwi : tereke : Sklw : weXEke : wi : Xt.temeylX : apelEye : XlXili : tetelitreli : yetmdelEwi : tmeylX : trqlXli : yetmdelEwi : trq : mteli : yetmdelEwi : abesye : kdite : lXlEwi : prSn : peleklia pXEye : smlEwi : temeylX[..]qEye : yetmdelEwi [: .....]aSrli : mrxeli . yiwl[..]wi : kwt. : lqEye : smlEwi bekelXye : StelEwi : temeykdi : lX[:] dbretelEwi : atE mxe piSiXekes : at mxe : pSixrkes :	o isis!  o osiris!  the noble widelXye, the noble one, begotten of apN-blye, born of akdiye, ................. related to the temeya-chief and teteli-tre(?) of (the god) XlXili, apelEye, related to the temeya-chief big trq, related to little trq, elder sister of abesye, wife of the high priest of (the god?) pelekli, pXEye, related to the temeya-chief [Sa?]-qEye, ................, wife of the kwt.  lqEye, mother of bekelXye, temeya-chieftainess in dbre, ...
+
+# pg. 339/340
+ms SiremrEke : kr[E]rEleb : StebetEwi : perite wESteb : qEre[N]wESteb : kditebetEwi[...][S]leb : StebetEwi [:] [.....]pelm[ES .....]	mother of SiremrEke's krErE, sister of agents of isis and qEreN's of isis, mother of ....s's, ......... generals? ....
+
+# pg. 342
+mleke mS-s	mleke-person of (the god) mS
+apEte	envoy
+S-SEr	book	TITULARY
+
+# pg. 343
+atbE;tbE	two
+
+# pg. 344
+dmkte-qE : xlbi 3 [di]me 4 kelw : qe-nS-per-lE :	the honourable damakete having finished (or dedicated) this in season 3, yeara 4
+dmkte-qE : xlbi 3 dime 24 kelw : q-nS-per-lE :	the honourable damakete having finished (or dedicated) this in season 3, yeara 24
+
+# pg. 345
+xrpxl(i)	the (divine) xlbiN-officer
+
+# pg. 347
+Nye : yet[mdelEwi][p]estE : yidty. [:] yeT mdelEwi : belElEke . nptetelyetmdelEwi : mlElEwi mlE mr [s]at mXe piSikrkes xmlE[	related to the ----- ....Nye, related to the prince yidtye, related to the belElEke in npt, the good one, good of -----,
+
+# pg. 348
+xrpxN pXrste	governor in pXrs	TITULARY
+
+# pg. 353
+dik	all the way
+
+# pg. 355/356
+WES qetNyinqeli : SEri qetrri : qE peLye qEwi : tEbeN : tedxli td[xe]lEwi : slebN terikelE[wi] : antEspy : SSimete : mxtebedetelyetmdelEw[i :]yetere SSimetel ye[tmd]elEwi : qer : tesk tmNtelis : txrn : nLeM : bedewitel bqEl : yetmdelEwi : mk..........retel..........te : N.............	o isis qetNyiNqel!  o osiris qetrr!  the noble pelye, the noble one, bora of tEbeN, begotten of slebN, related to antEspy, the SSimete in mxtebede, related to yetere the SSimete, related to the qer of (?) the teSk-in-tmN, txrn, who controls the nlem-in-meroe ...
+SSimete	trusty(?) person;steward?	TITULARY
+
+# pg. 356-358
+wESi : wetNyi : Nqeli : SEri wetrri : qE : tNkdeqEwi : asmiyetedxeli : tdhelEwi : abeleqebr : mXlEke : tErebre : yiqte : mniti : terikelEwi : bEkelXl : yetmdelEwi : bEkemetel yetmdelEwi : SSimete : ktkelis : medEye smlEwi : yiqereye : yetmdelEwi	o isis wetNyi-Nqel!  o osiris wetrr!  the noble tNkde, the noble one, born of asmiye, begotten of abeleqebr, the mxlEke-terebre-yiqte of amni, related to big bEke, related to little bEke, wife of the SSimete of the queen-mother, medEye, related to yiqereye.
+
+# pg. 359
+]at[]arEm[ri....arE]mri : ye[........a]rEmri : m[.......]te : leteye : a[.......]ye : aqe[......y]e : kelw : ye[tmdelEwi :] atE mXe p	[o isis!  o osir]is!  the noble arEmri-person .....ye, the noble one, begotten of abarlE....., born of ......, .......ri yi....., the arEmri m.....te, leteye, a......ye and aqe.....ye, much water...
+
+# pg. 362
+li-s adE-te-l	the ... of the ... in(?) adE
+
+# pg. 362-364
+xrpxN	governor
+wES : wetNyiNqeli : SEriwetrri qE : tMeye qEwi : yiqrekye : terikeli terikelEwi kditrye : tedxeli tedxelEwiSESENteleb yetmdelEwi xrpxN keqye yetmdelEwi perite : adblis sqtike yetmdelEwi : ttNlX : pelmESlisPQebete. : yetmdelEwi : kiSri : mkesmeN axid : kiN : kiSrisqtile : nbrlis l belebeltEr .1(?) bXeyedlis 1(?) teketi 59 : yed : tlt 16 kelw : yikidbitelEwi atE SXekes : at mXe bSxrkes	o isis wetNyiNqel!  o osiris wetrr!  the noble tmeye, the noble one, begotten of yiqrekye, born of kditrye, related to SESENte's, related to the governor keqyr, related ot the agent of the desert (?) sqtike, related to the chief deputy (?) of the general, pqebete.  the kiSri mkesmeN sent (the following):  1 kiN of a kiSri, qtile of the nbr (?), 1 belebeltEr[e], 1 bXe of the yed, 59 teketi's and 16 yed tlt he donated.
+
+# pg. 367-370
+wES : we[tNyiNqeli :] SEri : wetrri : qE : ptsnEye qEwi Xdeximeye : terikelEwi tyekibxEye : tdxelEwi : antxSxsliteb : yetmdelEwi : SSEr : mns mlitEwi..ASEre. : xSxslitEwi : qE pXEmeye q[Ewi]Ptsnye : terikelEwi : qE....eyetdxelEwi : ...rEskl A..tEwi : antxSxslis : nni : yetmdelEwi : teter : xSxslitEwi : amElX : XSxslis beliye : yetmdelE : krErEli : yikidke : mete : areqis 1 aspestEli : yikidke : Ames 1 a..kye : qEleb yikidbitemlE mrs : xSxslitEwi : a[tE] bSiXebxes : at : m[X]e : b[Six]rbxes : ate pEqe dEt[lxe] bSitkbxes : wESi : SEre[yi] diket : Srireqetelis : awSE...teli tereqebxeli : yetekelEwi	o isis wetNyiNqel!  o osiris wetrr!  the noble ptsnEye, the noble one, begotten of Xdeximeye, born of tyekibxEye, related (?) to the prophets of xSxs-li.  the noble pXEmeye, the noble one, begotten of ptsnEye, born of qE...eye, .........., related to the prophet of xSxs-li, nni, teter of xSxs-li, related to the chief amE (?) of xSxs-li, beliye.  the krErE donated 1 small areqi, his honour(??) the prince donated 1 Ames, (and) a.....kye donated the noble (images), good of mr of (the god) xSxs-li,  o isis!  o osiris!  the diket of the Srireqete, awSE..te, teke'd (them?) when they tereqe'd.;o isis wetNyiNqel!  o osiris wetrr!  the noble ptsnEye, the noble one, begotten of Xdeximeye, born of tyekibxEye, related (?) to the prophets of xSxs-li.  the noble pXEmeye, the noble one, begotten of ptsnEye, born of qE...eye, .........., related to the prophet of xSxs-li, nni, teter of xSxs-li, related to the chief amE (?) of xSxs-li, beliye.  the krErE donated 1 small areqi, his honour(??) the prince donated 1 Ames, (and) a.....kye donated the noble (images), good of mr of (the god) xSxs-li,  o isis!  o osiris!  the diket of the Srireqete, awSE..te, teke'd them who tereqe'd.
+temey-lX adEmn-te	chief of the temeya in adEmn	TITULARY
+qE-leb	the noble ones
+diket : Srireqete-li-s awSE..te-litereqe-bxe-li : ye-teke-lE-wi	the diket of the Srireqete, awSE...te, teke'd (them?) (when?) they tereqe'd.
+plSn qbNti	high priest qbNti
+yereqe	south
+penn 5 ni	fifth penn;fifth year of the penn-cycle	DATE
+
+# pg. 373-375
+qEreN-lX	chief qEreN
+apEte-lX arEmelis	chief envoy of Rome
+apEte-kdi	lady envoy	TITULARY
+# mlEyEs and mleyEs seem to be derived from (or related to) mlE, meaning 'good'
+mlEyEs;mleyEs;mlE	good
+
+# pg. 378
+pelmES atE-li-s-l(i)	the general of the river
+tdxe : mlEqErebr : qEret lXidmni	the mother(?) of mlEqErebr the king, lXidmni
+
+# pg. 379-380
+apEte-l-w : qErete : mXeyE-s-l : nte : yd.eSxini : ye-tek[e]-lE-wi	envoy of mXE land, and (one whom??) the enovy of the kinglet(?) of mXE-land(?), nte-yd.eSxini, teke'd.
+mete	little;small;younger	ADJ
+apEte Xlite-te	envoy in Xlite	TITULARY
+
+# pg. 381/382
+SiremrEke-krErE	envoy of the king
+te[w]isti	adoration
+penn : 34	regnal year 34
+
+# pg. 383
+tewisti : are.ke : Xdil yeSEa[]	the adoration (which) the are.ke(?) Xdil made
+t-wSte	the adoration
+
+
+#--------------------------------------------------------------------------------------------------------------
+ #--------------------------------------------------------------------------------------------------------------
+
+
+# UNTRANSLATED WORDS/PHRASES
+
+# pg. 14 appears to be titulary
+akinidd : pqrNyi : peStENyi : pqr : qErisl : qEr : xrpxelw : qeS : armeyEsli :		TITULARY
+qEr : xrpxel : axrEsl :	ruler and governor of axrE		TITULARY
+qEr : xrpxel : axrEsl : atbe : tmEt:		TITULARY
+qEr : xrpxel : axrEqesl : atbe : tmEt		TITULARY
+
+# pg. 34/35
+qEreN's		TITULARY
+qEreN		TITULARY
+
+# 38/39
+malEtEn		ROYAL NAME
+xawitarEr		ROYAL NAME
+Natewitar		ROYAL NAME
+abaratEye		ROYAL NAME
+dkretri		TITULARY
+
+# pg. 41
+wEmnis-krErE		TITULARY
+tapEtimaXer		ROYAL NAME
+
+# pg. 51
+amaniyesbEXe		ROYAL NAME
+
+# pg. 58
+xbxN		TITULARY;MASCULINE
+xbxN-kdi		TITULARY;FEMININE
+Stmdes		TITULARY;MASCULINE
+Stmdes-kdi		TITULARY;FEMININE
+mlE mr-s
+# the following is a set of locative particles
+-te;-lE;-lEwi		LOCATIVE
+nlEte		TOPONYM
+akiN		TOPONYM
+kiSri mkesmeN		TITULARY
+
+# pg. 71-72
+yet-mde		RELATION
+mdes
+xbxN
+axreke
+SlXS		RELATION
+mde-mde-s
+Stmdes		TITULARY;MASCULINE
+sNte
+
+# pg. 74
+ntkmni amni medesl
+mnitEre ariteNl mdesl
+SErkrEr mkedekel mdesl
+
+# pg. 78/79
+wyekiye		ANTHROPONYM
+kdi-bedewete		ANTHROPONYM;FEMININE
+
+# pg. 87
+SEni		ANTHROPONYM;FEMININE
+
+# pg. 89
+XalEme;XlEme;xlEmi		ANTHROPONYM
+maqEltemEme;mqEltemEme;mqEltemEye		ANTHROPONYM
+payeSi;pyeSi		ANTHROPONYM
+
+# pg. 93
+beke-mete		ANTHROPONYM
+krErE
+
+# pg. 99
+SSimete
+swny		ANTHROPONYM
+
+# pg. 100
+SleqeN
+wEmnis krErE
+
+# pg. 108
+atkitnideye		ANTHROPONYM
+adilemEme		ANTHROPONYM
+pxrs-te		TOPONYM
+pteremEtiye		ANTHROPONYM
+aqemlEye		ANTHROPONYM
+wyeteye		ANTHROPONYM
+
+# pg. 109
+xlbiN		TITULARY
+mlekye
+xlbiN
+ntke
+pelmES tni ntke-lE
+
+# pg. 110
+yitki-te		TOPONYM
+
+# pg. 112
+pestE akiN-te-leb
+
+# pg. 114
+wES wet [NyiNqeli SE] ri wetrri : Stmdes pe stElis mXeye qEwi : Sdmdekde tedxelEwi : SSe r....s : pXEme terikelEwi: pqr qERis : atmtl [tbE: yet md] ebetEwi: pqr qEris : S[Etn] krEr : pq[r]litxrEr : yetmdeqebetEwi : pestE : krinkrEr l pestE : NtewitrEr l pe s [tE:tqE]ye l pestE : xwitrEr l pestE mlEtE[N] ye l pestE ...yitkide l pestE brtEye l pes tE mXe [s l pestE] nibeliltE l pestE tewiNye l pe[stE]
+
+# pg. 115/116
+yet-mde-bes-lE-wi
+litxrEr		ANTHROPONYM
+mXes		ANTHROPONYM
+SSER			PRIEST
+
+# pg. 117
+yet-mde-qe-bes-lE-wi
+
+# pg. 120
+atmetH;yetmetl;yetmet(N);atmtl		ANTHROPONYM
+xwitrEr		ANTHROPONYM
+SEtnkel		ANTHROPONYM
+tbxemxr		ANTHROPONYM
+litxrEr		ANTHROPONYM
+tpEXidt		ANTHROPONYM
+mreperi
+mlitXide		ANTHROPONYM
+qEqEli		ANTHROPONYM
+
+# pg. 121
+SlXS		TITULARY
+SEtnkr		ANTHROPONYM
+kditEye
+temye		ANTHROPONYM
+tebye		ANTHROPONYM
+msxte trEbit		ANTHROPONYM
+mlitXide		ANTHROPONYM
+temeykdiye		ANTHROPONYM
+aberEtemte		ANTHROPONYM
+
+# pg. 122
+SlxS		ANTHROPONYM
+mXenke		ANTHROPONYM
+mli-tewen		ANTHROPONYM
+wEmnis		ANTHROPONYM
+metkeSitE		ANTHROPONYM
+mlitewen		ANTHROPONYM
+tnbelile		ANTHROPONYM
+nptble		ANTHROPONYM
+aXeyNtke		ANTHROPONYM
+wileli		ANTHROPONYM
+pqr 
+tkr		ANTHROPONYM
+yilxmli		ANTHROPONYM
+SlXS qEqEli
+mreperi
+Snmdes pestE-li-s
+
+# pg. 123/124
+temeykdiye		ANTHROPONYM
+yilXmli		ANTHROPONYM
+sNte Sweyibr
+atqE-lX-l
+at-mSE-atqE-mete-l
+tqE-mete-l		ANTHROPONYM
+yilXmli		ANTHROPONYM
+Sweyibr		ANTHROPONYM
+ant-mS-s		TITULARY
+tpEtemXer		ANTHROPONYM
+ilXmli		ANTHROPONYM
+Swe-ibr		ANTHROPONYM
+
+# pg. 129
+Ntewitr		ANTHROPONYM
+mXidt		ANTHROPONYM
+dkretri		ANTHROPONYM
+mlitrqide		ANTHROPONYM
+wleke-krEre
+skeskiN-krErE
+SmrSE-krErE
+abSe
+qErbs;qErps
+nb wNli ipxe-te
+
+# pg. 130
+Sbye		ANTHROPONYM;FEMININE
+mlitrqide		ANTHROPONYM
+mXidt		ANTHROPONYM
+Snmdes
+Snmdes-kdi
+
+# pg. 131
+li...ye (?)		ANTHROPONYM
+tyenEti		ANTHROPONYM
+Ntelletey		ANTHROPONYM
+SleqeN;S-leqe-N		TITULARY
+xrmlEmks		ANTHROPONYM
+dkretri
+amerE
+mr
+SmlE-mde
+XpEye		ANTHROPONYM
+mlitr.ide		ANTHROPONYM
+
+#pg. 134
+bXye		ANTHROPONYM
+apEt(i)kde		ANTHROPONYM
+arilNmks		ANTHROPONYM
+bEXeyi		ANTHROPONYM
+dkretri mXewitr
+mde-mde-s
+SNte-lX
+
+# pg. 135
+aqEny		ANTHROPONYM
+bEXeye		ANTHROPONYM
+mh.witr		ANTHROPONYM
+metidE		ANTHROPONYM
+ktpeNye		ANTHROPONYM
+ltktey		ANTHROPONYM
+kdi-qebts		ANTHROPONYM
+
+# pg. 136
+mlEtEn		ANTHROPONYM
+xdxdiye		ANTHROPONYM
+dkretri Smedeli
+
+# pg. 137-139
+blekewiteke		ANTHROPONYM
+qennye		ANTHROPONYM
+dbEti		ANTHROPONYM
+ed-mde;yet-mde
+ant mnp-s-li
+meqenli		ANTHROPONYM
+blekewiteke		ANTHROPONYM
+qelEXr		ANTHROPONYM
+aqmks		ANTHROPONYM
+ate-pedemE
+
+# pg. 140/142
+SSEr metelXs yNhn(?)
+xlixrEr		ROYAL NAME
+arEXteke		ANTHROPONYM
+...eqetme		ANTHROPONYM
+peStE tsmereh
+dSd..		ANTHROPONYM
+ant bleli	prophet bleli
+ddEkr		ANTHROPONYM;MASCULINE
+NbeyrESxi		ANTHROPONYM;FEMININE
+xSEteli		ANTHROPONYM
+xdEkmli		ANTHROPONYM
+
+# pg. 142
+SlXS
+SSEr
+dske
+[teri]kelewi
+pestE mXes : pestE : n[..... yetmde] betewi
+..]Nye : yet
+[mdelewi]
+[p]estE : yidty.[:]ye
+tmdelEwi : belElEke nptete
+yetmdelEwi : mlElEwi mlE mr [s]
+
+# pg. 143
+SSEr : lX-lE-wi qEreN-l
+ttN		TITULARY
+mreperi		TITULARY
+trtekes
+abErEye		ANTHROPONYM
+
+# pg. 148
+wiritelitE		ANTHROPONYM
+plenENye		ANTHROPONYM
+trEstme		ANTHROPONYM
+SSer		ANTHROPONYM
+mnEtel
+brtre
+tni		ANTHROPONYM
+sNte		TITULARY
+mSkel		ANTHROPONYM
+SEni
+meremtebElide		ANTHROPONYM
+atES		TITULARY
+belimetye
+belilidt		ANTHROPONYM
+
+# pg. 149
+SleqeN
+yiremeN		ANTHROPONYM
+wiretelitE		ANTHROPONYM
+arereteli		ANTHROPONYM
+wErEteliye		ANTHROPONYM
+axebixetey		ANTHROPONYM
+menEtel		ANTHROPONYM
+apEteye		ANTHROPONYM
+brtrye		ANTHROPONYM
+
+# pg. 151
+aplXye		ANTHROPONYM
+akdiye		ANTHROPONYM
+temey-kdi-lX		TITULARY
+dbre-te	in dabare
+
+# pg. 152
+.idelXye		ANTHROPONYM
+apN:blye		ANTHROPONYM
+akdiye		ANTHROPONYM
+temey-lX .qEye
+
+# pg. 153
+apelEye		ANTHROPONYM
+
+# pg. 156
+ate-pedemE
+Snmdes;Sdemdes;Stmdes
+
+# pg. 175
+qEreN-krErE
+
+# pg. 177
+ayebqE;aye-bqE
+mre-bqE
+S-(a)leqe-N
+aleqe-s
+SleqeN
+SSmri
+
+# pg. 178/179
+Smdes-lw
+bedewitel
+kdibedewitel
+xlbiN		TITULARY
+
+# pg. 182
+amelElEkes
+Serxtx
+mkeshe
+
+# pg. 184
+kelw
+
+# pg. 185
+arEteN qE : ydxnE : anEqE
+y keN 6 : Sns : pennE dteqE
+X . qE : aSEde :
+ydxnE
+yeSE;aSE-de
+anEqEy		ANTHROPONYM
+dteqEx.-qE		ANTHROPONYM
+
+# pg. 186
+penn
+....e 10 ken : l tlt 4
+
+# pg. 198
+lk-S : Sq-yeS : nsdEke-S : temey-yeS : nxbr-eS :
+kdimlEye : Sq-kdi
+mXE : temey : nsdEke : kdi Abr(?) : nxbr-eS : k-bx : mhE-li : temey-li : dk :
+nsdEkel : dEle : XElkte :
+
+# pg. 200
+trEs-li-Xi qEre mXE-li-s-l axideSxini axi-lE-wi
+
+# pg. 202
+mxeri
+prSn	high priest?
+pelek	pelekli
+
+# pg. 207
+atmetN;yetmetN		ANTHROPONYM
+
+# pg. 215/216
+qeS	kush	TOPONYM
+nxbr;nxbew
+mxbr		PEOPLE GROUP
+
+# pg. 226
+tbE
+pqr : qEris : atmetN : tbE : yetmdelE :
+
+# pg. 227
+pqr qEris : atmtl.. : yet[mde q]ebes-lEwi:
+
+# pg. 231/232
+S-Sime(-te)	TITULARY
+S-lX(S)		TITULARY
+S-Smri?		TITULARY
+S-mt?		TITULARY
+S-tmdes??		TITULARY
+S-SEr
+S-mrSE?		TITULARY
+S-S		TITULARY
+S-leqe-N (S-(a)leqe-N?)		TITULARY
+
+# pg. 236-238
+l-b-X-te
+(ye)-l-X-te		SG
+p-SE-Xe-b
+p-Si-xr-b
+a ... kye		ANTHROPONYM
+
+# pg. 242
+p-sE-Xe-bx-ke-te-s
+pqr-leb pestE-leb ye-t-mde aqe-bes-lE
+pqe qEris S .... krEr pq [r] litxrer ye-t-mde qe-bes-lE
+SEni mni-s meremteblide atES belimetye kdis-bes-lE
+belElEke npte-te-li pedeme-te-li Ste-bes-lE
+lX-mEd-li-s-leb ye-t-mde qe-bes-lE
+perite wES-s-leb qEreN wES-s-leb ye-t-mde qe-bes-lE
+pelmES atE-li-s-leb lX wrEs-te-leb-lX mEd-li-s-leb xrpxN Sqeki-te-leb kdite-bes-lE
+ant mnE tmN-te-leb kdite-qe-best-lE
+wkite tmN-te-leb Ste aqe-bes-lE
+wkite tmN-te-leb Ste aqe-bes-lE
+mrebqE kttreleb mrebqE qErE-s-leb a.. ye-t-mde aqe-bes-lE
+krErE-leb Ste-bes-le
+perite wES-s-leb qEreN wES-s-leb kdite-bes-lE
+....e-leb Ste-bes-lE
+mlekeyEs p mlekeyEs p ...... kelw ye-t-mde-bes-lE
+pelmES-leb apEte-leb xrpx-leb kdite-bes-lE
+
+# 244
+y(i)ni-txe-le
+kdi-leb mrEr-leb SS-leb k-b-bte
+mte kdi aqtEye-s 2w bqE-bte
+Ste wes NUMBER bqE-bte
+wli-kid-bte
+
+# pg. 245
+t-Sdrte ...................... t-twdtE
+xrpxlke swide irxhi sbwi eqe-s-wi-t ek-te
+kdislw abrslw yemeqe eqe-bes-wi-t wk-bte
+xrpx-l-ke??
+wk-bte
+kdi-s-lw abr-s-lw
+
+# pg. 246
+ptrEti
+
+# pg. 249/250
+qE pelmES atElis bekemete-li ste mnitwwi qE wete-li yete-li yetetke wEmNtX : ppilqete-lE ant qEritE Ste-li qEre : sm-lE xbxN : sqte-lX-lE : mlE Sime-lE
+wete-li yete-li yetetke
+
+# pg. 251
+Ste-li qEre sm-lE
+xbxN	xbxN-officer		TITULARY
+
+# pg. 252/253
+mlE Sime-lE
+qE krErE bekemete mte pelmES atElit yerike-lE mnis mte-lE pestE-lE : pelmES adblitE nEbEw : 35 kelbE
+nEbEte qeSk nEb brlX l dE ke-lE
+nE : b : brlX l : ni : dtweti yikxe-lE :
+mStrqye		ANTHROPONYM
+
+# pg. 254/255
+tdxe : mleqerebr : qE ret lXidmni ptrEtis lw armte : kw : SdrtelX 2 dE 6 atmi wes 12 keN 2 aritewil : l wES pil qetelxe l wES tebwetel xe l tdbtE : wES arEl : t rEt : tSdrte : dE : 5 ken t mi 10 keN arEtrEtxe t twdtE aSEri pilqeteleb tbE : yinitxebtE aSEri te bwteli yni txelE : pki wES pilqeteliti : wi wES tebwe teliti wi aSy : axe mrxe btE xbxeN : qEris mStr q : qE : yetebxe :
+# same as line above, but with segmentation and replacing t with s and l when called for
+t-dxe mlEqErebr qEre-s-l lXidmni ptrEs-li-s-lw ar-mte kw Sdrte-lX 2 dE 6 atmi we-s 12 keN 2 aritewil l wES pilqe-te-l-xe l wES tebwe-te-l-xe l t-d-bs-lE wEs arE-l-trEs-l t-Sdrete dE 5 keN tmi 10 keN arE-trEs-l-xe t-twd-s-lE aSeri pilqe-te-leb tbE yini-txe-bs-lE aSEri tebwe-te-li y(i)ni-txe-lE pki wES pilqe-te-li-s-li wi wES tebwe-te-li-s-li wi aSy axe mrxe-bs-lE xbxeN qEri-s mStrq qE ye-te-bxe
+mlEqErebr		ROYA NAME
+lXidmni		ANTHROPONYM
+
+# pg. 256/257
+ptrEs-li-s-lw ar-mte kw
+akili kw : x :ri : mli : yireke-lE
+kdi : akw : nnw : xtekkeSdestel : mtes-lE :
+xrmli		ANTHROPONYM;FEMININE
+Sdrte-lX 2 dE 6 atmi we-s 12 keN 2 aritewil l G-xe l G-xe l t-d-bs-lE
+G t-Sdrte dE 5 keN tmi 10 keN G-he t-twd-s-lE
+
+# pg. 259
+temey lX : P : trEs-lEwi
+trEs-lw : mlE-lE(wi?)
+qr-leb : trEs
+
+# pg. 262
+aSEri pilqe-te-leb tbE yini-txe-bs-lE
+aSEri tebwe-te-li y(i)ni-txe-lE
+
+# pg. 266/267
+qE mStrq : qE : wESi : bedewi kSdk : prEXeN : dxe : wiyleb : ptlteb ptrEti : ptrq : bEXlekw :
+mnitwwi		ROYAL NAME
+
+# pg. 268
+Snkliti-lE msqetE
+Snkliti		ANTHROPONYM
+
+# pg. 271
+xdi-mli		ANTHROPONYM;FEMININE
+xr-mlE-mks		ANTHROPONYM;FEMININE
+
+# pg. 272/273 contain Millet's transcription of the Kalabsah text.  This is included in a separate document.
+
+# pg. 278
+arette : wES-s-lw : xi-rette-Nyi :
+
+# pg. 279
+teris		N
+mnpte		N
+tlElis		Q
+kidketel		V
+
+# pg. 280/281
+yi-kid-bite-lE-wi
+yi-kid-ke
+yi-kid-bite
+wli-kid-bte
+pdXE-s : tlE-li-s		EPITHET
+tlE		N
+abrs : mtelE
+(a)mnis mte-lE
+
+# pg. 284/285
+yismeniye : qErelX : yetE-lxe : yiti 4 yEtE
+aSy : kedebxeky : qEretik : dik : pilqeyte : bqEk :
+sbe 3 ni : bqE-lE:
+
+# pg. 289
+prE : dEle : plw : penn : tlte : br : pxiNl : bxemi : yedet :
+
+# pg. 290
+kdimlEye		ANTHROPONYM
+yismeniye		ROYAL NAME
+ptpEtekye		ANTHROPONYM
+
+# pg. 292/293
+pSEXeb
+pSixrb
+pSitxb
+qeSw : adereke : mtr : ws : Xrw : pilqeke : mtr : ws : qEre 8 Xres : wteb : axi : de ..... kle : dete :
+qeSw : adereke : mtr : ws : Xrw : pilqeke : mtr : ws : qEre 8 Xres : wteb : axi : dete : Skle : dete :
+
+# 294
+mte : kdi : aqtEyes	N
+bqEbte		V
+w		N
+widE		N
+xreSyeqE		N
+widE		N
+yisxteteyeqE		N
+bqEbx		V
+smle : wSi		N
+tkbte		V
+Ste : wes		N
+SimlEk : dik : sleleyte :		A
+
+# pg. 298
+mXE		N
+temey		N
+nsdEke		N
+kdi		N
+abr		N
+nxbreS		Q
+kbx		V
+mXEli		N
+temeyl		N
+dk		V
+
+# pg. 300
+Xrw : adEnilikete : yireqw : arw : terekete : Xrw : sleleke : mtr : ws yireqw : ade.leke : mtr : ws : qEre : ptSide : tmEt : m ... eS ... plN ptmkide : tmEt : aritele : weple
+
+# pg. 303/304 contains partial translations of the Kalabsha inscription
+
+# pg. 306
+ye-t-mde qe-bes-lE-wi
+
+# pg. 305
+mXeye		ROYAL NAME
+
+# pg. 307
+......tl yetmd (elEwi) ...
+......(yet) mdelEwi : per(ite) ...
+......ye : yetmde(lEwi) ...
+......e.tEx : Strye .....
+......elEwi : pSrtES ...
+......ye .........
+
+# pg. 308
+prXn-qEpltE : treb : ken
+prXn		ANTHROPONYM
+Xslmli : Xniy : llyn
+]S : mlEN : sbe : Sli
+]d.ptkiN qE :
+aqewrt lE nlEli : ye ....... : anEqE Sirele
+reN.tr
+arEteN qE : ydxnE : anEqE y keN 6 Sns : pennE dteqE X. pE : aSEdi :
+
+# pg. 309
+dikes		ANTHROPONYM
+
+# pg. 310
+xrpxN phrstel		TITULARY
+[pel]mES : a[tEli-s]
+a[dblis]
+]: mibemi[
+]lEwi : q[
+]elw : a[
+
+# pg. 311
+]s : qEr[
+]ye : [
+[....atE..mXe] piSi[Xekes]
+[at mXe piSixr]kes
+
+# pg. 312
+]tsl........teketi[
+]mes reke lis. beltEre : l[]e 10 keN : l tlt my : tk : teketi
+] s : 10 kelw : axide[
+]e : abSe : letE[
+teketi		N
+ames		N
+
+# pg. 313
+abSe;abSE		TITULARY
+]yetmde[lEwi
+yet]mdelEwi : pe[lmES
+]wi pelmES a[
+lX mE]dliteb : lX wr[Esteleb yetmdelEwi]
+
+# pg. 314/315
+wES wetNyi : Nqeli : SEri qe trri : qE dEqe N qEwi : pmete : terikelE : wi : wEmsmdetE : mdetEwilEwi : amXyemEkelEwi : aqe : bili : qelEwi : atE mxe psiXekes (a)t mxe piSxrke tni mEkelEwi : xteri : yeSdSlEwi atE mx pSi Xekes
+amxye mEkelEwi		ANTHROPONYM
+tni mEkelEwi
+as : tkereXetmS 5? ni mEkelEwi : d
+dEkeli : Nket mEkelEwi
+aqe : bili : qe-lEwi:
+xteri ye-Sd-S-lE-wi
+
+# pg. 316
+wES wetNyi : Nqeli SEri qetrri : qE mEXi qEwi : abrite : pmete : qEwi tyeSi yedxelebkwi : SsmripestEliti : terikelebkwi : Steqeteb : yerSxini yeritelebkwi : trEtiXi qEre mXElit : axideSxini axilEwi xtedeketeti : Sklyetek : nmESdlEwi : as : tkereketmS 5? ni mEkelEwi : d
+Ssmti pestE-li-s-li
+
+# pg. 317
+Steqeteb yerSxini yerite-leb-k-wi?
+trEs-li-Xi qEre mxE-li-s-l
+
+# pg. 318/319
+trEs-li-hi	N
+axi		V
+xtedeketeti : Sklye tek : nmESd-lEwi
+
+# pg. 320
+wES wetNyiNqeli : SEriqetri : qE xbxNkdiame.ye qEwi mnitwi : terikelEwi kdibedewetel : tedxelEwi : pelmES : atEliteb : lXwrEsteleb : lXmEdliteb : xrpxN Sqekiteleb kditebetEwin : t ........
+k.......rite......
+mnitwi		ANTHROPONYM
+grmrwet		ANTHROPONYM
+
+# pg. 321
+lX wrEs-te-leb
+-te		LOCATIVE
+amEd		LOCATION
+tketEre		LOCATION
+
+# pg. 329
+pte.Eye		ANTHROPONYM
+ameqemeteye		ANTHROPONYM
+adilxeyye		ANTHROPONYM
+Skl		TOPONYM
+.lxeye		ANTHROPONYM
+tNlxearEr		ANTHROPONYM
+dkelikeye		ANTHROPONYM
+adeqeyitbre		ANTHROPONYM
+tpeteNteli		ANTHROPONYM
+sskemxr		ANTHROPONYM
+wtemtr		ANTHROPONYM
+yetekemxr		ANTHROPONYM
+tedeqelible		ANTHROPONYM
+deletenkeli		ANTHROPONYM
+nkbli		ANTHROPONYM
+mXlikde		ANTHROPONYM
+mlidns		ANTHROPONYM
+twteNtkeli		ANTHROPONYM
+mklisye		ANTHROPONYM
+sbewyenkeli		ANTHROPONYM
+SitkemEli		ANTHROPONYM
+adEtrqli		ANTHROPONYM
+tlmenkeli		ANTHROPONYM
+abyetli		ANTHROPONYM
+dskemxr		ANTHROPONYM
+qEriteyli		ANTHROPONYM
+trqye		ANTHROPONYM
+
+# pg. 323/324
+yetmde[lEwi] ...le reNlX : kttreleb : yetmdelEwiqEreN krErEleb yetmdelE[wi] xrpxN Sq[eki]teleb yetm[delEwi a]pEte
+wESi : SEr [eyi : q]E : beni : blye qEwi : aplXye [: terik] elEwi : akdiyetedxelEwi : te[meyl]X : dbrete : XlXili : trs : ap[...]yetmdelEwi temey : lX : dbr[ete...]lye smlEwi [...]reNdpp[....]ye : .txelEwi[ : temeylX] dbrete : S:qEye : ye [tmde]lEwi : trq[l]Xli : kditele(wi) trq : meteli : kdi[tel]Ewi : Steli ...eteliyetelEwi[....] k : adEte [...]yiwllEwi : Steli[....]abli[...]teweteb : yilk[......]: temeykdilX : [dbrete lE] w[i]
+
+# pg. 325
+XlXili		DIETY
+dbre		LOCATION
+belileye		ANTHROPONYM
+
+# pg. 327
+[....] kdilX ... tepbEte St[..][....] emekwdqlXli : yiXlXite : kdibe [..]etEwi : mlElEwi mlE XtEXelEwi : mlE mr [....]itEwi : mlE mrs pXrstelEwi : wE [Si SErey?]i : atE mX pSiXekete: at mXe pSix[rke]te ate pEke dEtlxe pSitkkete
+
+# pg. 328
+# Note: the bracket portion with 10 periods would have represented about 10 letters
+[wESi : SE]reyi : qE : mentE : [..] [.....] : yetElXye qE[wi ..] [......]rlX : pestE [.......] [......] : lXye [:] [..........] [......]ter[i]k[elEwi....]
+
+# pg. 329
+wESi : SEr[e yi : qe] pte.Eye qewi : ameqemeteye tedxelEwi : adilxeyye : terikelEwi : wEmnitX Sklte.lxeye yetmdelEwi wEmnitX brtEye yetmdelEwi : wEmnitX : SkltesskemXer : yetmdelEwi : wEmnitX : Sklte : tNlxe : arEr : yetmdelEwi : wEmnitX Sklte dkelikeye yetmdelEwi : SmlE adeqeyitbre : yetmdelEwi : aribet : tpEteNteli : yetmdelEwi : aribet sskemxr yetmde
+lEwi : aribet : wetemtr : yetmdelEwi : aribet yete kemxr : yetmdelEwi : aribet : tedeqeli : ble : yetmdelEwi : wEmnitX : deletenkeli : yetmdelEwi : SmlE : nkbli : yetmdelEwi qEresmle : mXli : kde : mdetEwi : qEre smle : mlidns : mdetEwi : ateqi : atiyete twteNtkeli : yetmdelE [w]i ateqi : mklisye yetmdelEwiateqi : sbewyenkeli : ateqiSitkemEli : ateqi : adEtrqli : pqr : tlmenkeli belElEke : abyetli belElEke dskemxr belElEk[e] qEriteyli ateqi : trqye.yetmde aqebetEwi
+tNlxe : arEr		ANTHROPONYM
+
+# pg. 332
+wretXn		TITULARY
+kdiqErEye		ANTHROPONYM
+pedeqinye		ANTHROPONYM
+abrye		ANTHROPONYM
+SlEteyli		ANTHROPONYM
+x.lEnk		ANTHROPONYM
+bEqterel		ANTHROPONYM
+tmN		TOPONYM
+brmete		ANTHROPONYM
+styeSiye		ANTHROPONYM
+pXrs		TOPONYM
+axdeye		ANTHROPONYM
+
+# pg. 335
+widelXye		ANTHROPONYM
+apN-blye		ANTHROPONYM
+pelekli		DIETY
+pXEye		ANTHROPONYM
+bekelXye		ANTHROPONYM
+dbre		TOPONYM
+
+# pg. 336
+SlXS terek-lE
+akilikw xrimli yireke-lE
+XlXili		DIETY;EPITHET
+XlXi.li tete-li tre-li;XlXili tr-s
+aSr-li : mrxe-li : yiwl-lEwi :
+
+# pg. 338
+[.....]ye qEwi : xrws[ter]ikelEwi : wetye tdxe[lEwi a]ntleb : yetmdelE[wi : m]esnleb : yetmdelEwi[t]qileb : yetmdelEwi : pNqEteb : SSimeleb yetmdelEwi : atE mXe : pSiXekes
+xrws		ANTHROPONYM
+SSimete-leb		TITULARY
+
+# pg. 339
+SiremrEke-krErE		TITULARY
+
+# pg. 341
+wESi : SEreyi : qE : Sxiye qEwi : atiyetmeye : terikelEwi : ameNye tedxelEwimlekeyEs : yetekye yetmdelEwi : ml[ekeyE]s : treye : m[leke]yEs : atEye : mlekeyEs [: .]dEkEye : mlekey[E]s : qEqEye : mlekeyEs tkreye kelw yetmdebetE[w]i : mlekeyEs : treye : kditEwi : SSEr : atbEs : mlekeye yetmdelEwi : ttNleb : yetmdelEwi : atE mXe pSEXekes :
+Sxiye		ANTHROPONYM
+mlekeyEs		TITULARY
+mleke		TITULARY
+
+# pg. 342
+mlE-yEs;mle-yEs
+nkde-yEs
+pelme-tre-yEs
+S-SEr atbE-s
+apEteye		ANTHROPONYM
+
+# pg. 343
+SEr qErEde-li y-rE-Xe-te-lE
+k-nmre kdiyEsmli yi-rE-Xe-te-lEwi
+S-Sime(te)
+S0lX
+S-qE
+S-(a)leqeN(?)
+
+# pg. 345
+xlbi:li		DIETY
+xlbiN		TITULARY
+
+# pg. 346
+wESi SEreyi qE[..][.]Me : MEkeye qEwiatE mXe pSiXe[ke][te] a[..........][..]ete
+
+# pg. 347
+wES wetN[yiN]qeliSEri qetrri [:] qE kdilXEye qEwi atE mXepiSiXekete : at mXepiSixrketemlElEwi
+npt		TOPONYM
+
+# pg. 350
+# this next text built into a crude stone wall on the south side of the Citadel of Ada in Late Christiann times
+[wESi : SEreyi] qE : xbxeNkdi : t[....][........]bliye : terikelEw[i ....][.......]amSxiye : tdxelEwi [:]pE[lmES][.....]: XlEme : yetmdelEwi : pElmES : [.....]: mqEltemEme yetmdelEwi : pElmE[S : ....]s : wyekiye yetmdelEwi : pElmE[S : ....]s : .ye..ye : yetm[de]lEwi : pElmE[S : ....]s : wSiteye : ye[tmdelEwi : ....]
+amSxiye		ANTHROPONYM
+bedewe		TOPONYM
+
+# pg. 351
+wSiteye		ANTHROPONYM
+
+# pg. 352
+....]Bi : qE...e..te.rE.M..lek....xe : XttkyetE :
+w[E]S[ ]pE[ ]S aSEYi.yPe qEwi.sm[
+aSyyebye		ANTHROPONYM
+
+# pg. 353
+]stk : A [.....] ]s : dEkes : a[...] ]rEXetE : axi : adete ]Tedipxide : aqes ]Tebnreq : beteknE ]BrEXekye : aMbeli : ]teqelelxw : dik : dime ]k : arete : dEdEli : td. ]elw : yekk : dime : SEx[..] ]slw : EyBeQ[.....]
+BrEXekye		ANTHROPONYM
+
+# pg. 354
+txbE : sbetelebsadkelis : areketE : bikeleb : sb
+kele : Sm : lqEli :
+areke		NAME
+
+# pg. 355
+bike-leb		PL
+pleye		ANTHROPONYM
+
+# pg. 356
+slebN		ANTHROPONYM
+antEspy		ANTHROPONYM
+mxtebede		TOPONYM
+yetere		ANTHROPONYM
+
+# pg. 357/358
+tNkde		ANTHROPONYM;FEMININE
+asmiye		ANTHROPONYM
+abeleqebr	ANTHROPONYM
+bEke		ANTHROPONYM
+medEye		ANTHROPONYM
+yiqereye		ANTHROPONYM
+wESi : SEr]eyi : qE : arEm [........]ye qEwi : abrlE[.........]i : terikelEwi[.........te]dxeli[tedxelEwi]
+]at[]arE m[]mri : yi.[]rEmri : m[]te : leteye : a[]ye : aqe[]e : kelw : ye[]atE mXe p
+
+# pg. 359
+w[E]Si SErieyi[]Erye q[Ewi]td[x]elE[wi]terik[el]Ew[i]Xliter[]WI a[]
+
+# pg. 360
+qereXTwwi : ntmLIpy : y...LE : kt...
+mb nwt
+
+# pg. 361
+.Sxiye
+tmeyeq :t:
+tmeye-qE :		ANTHROPONYM
+att[
+Snkte
+
+# pg. 362-364
+]lisadEteL
+adEmn		TOPONYM
+perite adblis
+SESENte		TITULARY
+pelmES adblis
+wli-kid-bte
+axid		V
+kiSri mkesmeN axid kiN kisrisqtile nbrlis 1 belebeltEr .1 tsl ....... teketi ............. mesrekelis. beltEre 1
+bXe yedlis 1 teketi 59.......e 10 keN 1 tlt my tkteketi .......
+yed tlt 16 kelw yikidbitelEwi......s 10 kelw axide.......
+kiSri		TITULARY
+mkesmeN		ANTHROPONYM
+pteremEtiye		ANTHROPONYM
+
+# pg. 367
+tmeye		ANTHROPONYM
+yiqrekye		ANTHROPONYM
+kditrye		ANTHROPONYM
+keqyr		ANTHROPONYM
+sqtike		ANTHROPONYM
+pqebete		ANTHROPONYM
+mkesmeN		ANTHROPONYM
+ptsnEye		ANTHROPONYM
+
+# pg. 368-370
+SSEr		TITULARY
+krErE-li yi-kid-ke mete areqi-s 1 as pestE-li yi-kid-ke Ames 1 a...kye qE-leb yi-kid-bite
+as : pestE-li
+as .enis 14 ni ..ke-lE
+klmes
+]mesrekelis
+]mes rekeli-s
+teke		V
+plSn qbNti penn 5 ni ye-teke-lE
+qbNti		ANTHROPONYM
+Sri-reqe-te
+
+# pg. 371
+ptsnEye		ANTHROPONYM
+Xdeximeye		ANTHROPONYM
+tyekibxEye		ANTHROPONYM
+xSxs-li		DIETY
+pXemeye		ANTHROPONYM
+qE...eye		ANTHROPONYM
+beliye		ANTHROPONYM
+a.....kye		ANTHROPONYM
+tereqe		V
+wESi : SEreyi : mlEwitr qEwi SyKeli : t[d]xelEwi : anSyi : Syeteli : terikelEwi : qEreN : krErElEwi : qEreN : nkdeyEtEwi wEmnis krErElEwi : apEtelX : arEmelitEwi : apEte : mXeyEtEwi : apEtelw : qErete : mXeyEt : nte : yD.eSxini : yetek.lEwi : SSi : mete : mleyEtEwi : apEte XlitetelEwi : ..beNXlitetelEwi : .yXNx.y : akilEpkri.wdi : kxSxsli.s : Sqke lEwi : xrpxN : pXrste : atpete : yetmdelEwi : Si[R]e[MREKe] : krErE : Sibwiye : yetmdelEwi ateqi : SdEsteleb : yetmdelEwi : belilEke : pedemeteleb : yetmdelEwi : trtekes : tketEreteleb : yetmdelEwi : mlEyEs : atiyeteleb : yetmdelEwi : atE : mXe : [pS]Xekete : at mXe p[S]trri : mklX : qetrri : nsdEkeli : delekw : XElketes :
+qEreN-krErE		TITULARY
+
+# pg. 373-375
+qEreN-nkdeyEs		TITULARY
+wEmnis-krErE		TITULARY
+qEreN-krErE		TITULARY
+apEte mXeyeEs		TITULARY
+nkdeyEs
+pelmetreyEs
+apEte-lw qEre-te mXeyEs-l nte yd.eSxiniye-tek[e]-lE-wi
+
+# pg. 376
+qEre mlE-lE, mk-l-w mlE-lE, s-l-w mlE-lE, s-l-w (? tw) mlE-lE-wi	the good (one) of? the king, and the good (one) of? god, and the good (one) of? man, and the good (one) of? s.
+qEri-s		GENITIVE
+
+# pg. 377
+pelmES-l	the general
+
+# pg. 378
+mlEqErebr		ROYAL NAME
+lXidmni		ANTHROPONYM;FEMININE
+qEret;qEre-s-l
+
+# pg. 379-380
+ye-tek[e]-lE-wi		V
+trEs-li-Xi qEre mXE-li-s-l axideSxiniaxi-lE-wi
+mXE		TOPONYM
+SSimete mleyEs		TITULARY
+Xlite		TOPONYM
+
+# pg. 381
+....beN Xlite-te;[xl]beN Xlite-te
+Sire-mrEke krErE
+
+# pg. 382
+mniqrbeteli : wey.....YsbEx.....leb : tr.....mslXye
+axidiye-li : mniqerbeteli
+penn : 34 []ati.ye[]wey.e : ar[]tibkle : .erbele : yeK....x : wetllE : ...Msye : nlE[]
+penn 5ni
+penn 34N-kw
+
+# pg. 383/384
+Xdil		ANTHROPONYM
+# over a well-cut figure of a cow
+ati.ye tewisti : are.ke : Xdil yeSE a[... .]sSermibleb : treb : apeRNtitewi.ti : []SE : leb : tretEx : mlElE : qEre : ydke : [M]lElE :[]mni[]wi[]Xs[]ye : a[]ppEye penn[...]tewisti msye : wE[S]...diLXtBE : tewisti axiditey tiSE dil.tbE
+
+# pg. 385
+pliyesyi : wteli : pkeli : yirEXetewi : wES : wES : mlwilis : mlEwi : []lit : yirEXe[]te : mlEwi : yni : bNbeyeni : [] yni : []
+pliyesyi		ANTHROPONYM
