@@ -1,0 +1,376 @@
+# MEROITIC_INSCRIPTIONS_GRIFFITH
+# Inscriptions printed in Meroitic type in F. Ll. Griffith, "Meroitic Inscriptions" I (1911) and II (1912), and in Garstang, Sayce and Griffith, "Meroe, the City of the Ethiopians" (1911). The readings are Griffith's, in the public domain; scans at archive.org (archaeologicals19egyp, archaeologicals20egyp, merocityofethiop00gars).
+# Transcribed from the printed type by a language model (Claude Opus 5.5) on 2026-11-09, not by hand. In a test on 12 of these texts, read before the modern edition was opened, 95.6% of signs agreed with the modern readings in Fontes Historiae Nubiorum (FHN) and 99.6% with what Griffith printed; the test's two misreadings, and a third found later in no. 111 (qoleb, read qleb), are corrected here. On those texts Griffith's readings differ from the modern (REM) ones in about 4% of signs. The test covered only cursive type from Meroitic Inscriptions II (labels and graffiti at Philae); 41 of the texts here are in hieroglyphic type.
+# (Spelled as in mero-corpus.txt, MilletExamples.txt and Kalabsha_Millet.txt: E-hat transcribed 'E'; 4th H transcribed as 'X'; 3rd H transcribed as 'x'; S-hat transcribed as 'S'; the se sign as 's'; N-tilda transcribed as 'N'. Griffith's z is 'd'.)
+# Left out: word dividers, line numbers, the marks of uncertain signs, and signs with no letter value (Egyptian signs, numerals and marks of unknown value); numerals with a value are digits. A '.' stands for a lost sign or one of Griffith's dots for a gap, so dots do not always count the lost signs; gaps between words are left out. Signs Griffith restored in square brackets are dots in Meroitic Inscriptions I and nos. 75-105 of II, and letters in nos. 106-137 of II and in Meroe.
+# Each inscription is one line, under a comment line with the edition, Griffith's number, the REM number where known, the site and the page (nN is the page of the archive.org scan, archive.org/details/<id>/page/nN). Here are 123 of the 152 transcribed; the other 29, which Griffith printed only in part (for example words quoted in his commentary, or a row of a table), are left out. Of three texts here too he printed only some lines: Meroitic Inscriptions I no. 21 (line 1 of 11), II no. 80 (not the words in the field) and II no. 81 (lines 1-3 of 5).
+# Source rows, with the object, the uncertain signs and notes: https://github.com/MikeKovetsky/meroitic/tree/4211be3/data/expansion (Mike Kovetsky 2026, CC BY 4.0). The accuracy test is printed_type_test.md there.
+
+# Meroitic Inscriptions I, no. 1 = REM 0001; Soba; p. 52 (leaf n63)
+.......reqerem ..re mnitkel pwrite lx. amn ........tbx....
+
+# Meroitic Inscriptions I, no. 2 = REM 0002; Gebel Geili (Gebel Qeili); p. 53 (leaf n64)
+SErkxrEr .qnxlme
+
+# Meroitic Inscriptions I, no. 3 = REM 0003; Naga, temple of the lion-god (Apedemak); p. 55 (leaf n66)
+.....mteteli ....ni ...qErE ...wi yitetbxte
+
+# Meroitic Inscriptions I, no. 4 = REM 0004; Naga, temple of the lion-god (Apedemak); p. 55 (leaf n66)
+.....mteteli ...ktkel ...wi yitetbxte
+
+# Meroitic Inscriptions I, no. 5 = REM 0005; Naga, temple of the lion-god; pp. 56-57 (leaves n67-n68)
+ntkmni mnitEre pqrtrlE arikxrErqE
+
+# Meroitic Inscriptions I, no. 6 = REM 0006; Naga, temple of the lion-god; p. 58 (leaf n69)
+....mk pwri. .bxte mlE.. .itebxte
+
+# Meroitic Inscriptions I, no. 7 = REM 0007; Naga, temple of the lion-god; p. 58 (leaf n69)
+..rmEke mlE.. pwrite lb.. mlEwi yiteb
+
+# Meroitic Inscriptions I, no. 8 = REM 0008; Naga, temple of the lion-god; p. 58 (leaf n69)
+pwrite ..xy mlEwi .bxte SNptete
+
+# Meroitic Inscriptions I, no. 9 = REM 0009; Naga, temple of the lion-god; p. 58 (leaf n69)
+aqedislE
+
+# Meroitic Inscriptions I, no. 10 = REM 0010; Naga, temple of the lion-god; p. 58 (leaf n69)
+amnbSi pwi..te lE.xte ....lE....
+
+# Meroitic Inscriptions I, no. 13 = REM 0013; Naga, temple of the lion-god; p. 58 (leaf n69)
+x...l.tli pwrite lbxte nt.. .bxte
+
+# Meroitic Inscriptions I, no. 14 = REM 0014; Naga, temple of the lion-god; p. 59 (leaf n70)
+..smi .mi..li pwrite l.xite keskeyi
+
+# Meroitic Inscriptions I, no. 15 = REM 0015; Naga, temple of the lion-god; p. 59 (leaf n70)
+at riqE pwrite lbxy ntke lbxte
+
+# Meroitic Inscriptions I, no. 16 = REM 0016; Naga, temple of the lion-god; p. 59 (leaf n70)
+.lt..mni pwrite lbxte ntki lbxte
+
+# Meroitic Inscriptions I, no. 17 = REM 0017; Naga, temple of the lion-god; pp. 56-57 (leaves n67-n68)
+ntkmni mnitEre pqrtrlE arikxrErqE
+
+# Meroitic Inscriptions I, no. 18 = REM 0018; Naga, temple of the lion-god; p. 58 (leaf n69)
+apedemki pwrite lbxte ntke lbxte
+
+# Meroitic Inscriptions I, no. 19 = REM 0019; Naga, temple of the lion-god; p. 58 (leaf n69)
+..rite lbxte
+
+# Meroitic Inscriptions I, no. 20 = REM 0020; Naga, temple of the lion-god; pp. 56-57 (leaves n67-n68)
+ntkmni mnitEre pqrtrlE arikxrErqE
+
+# Meroitic Inscriptions I, no. 21 = REM 0021; Naga, temple of the lion-god; p. 60 (leaf n71)
+pdmk .y be teli
+
+# Meroitic Inscriptions I, no. 23 = REM 0023; Naga, temple of Ammon (Lepsius's temple d); p. 63 (leaf n74)
+amni nEtete aqedis qEmlis
+
+# Meroitic Inscriptions I, no. 24 = REM 0024; Naga, temple of Ammon; p. 63 (leaf n74)
+amni lX ariteN tElktete
+
+# Meroitic Inscriptions I, no. 26 = REM 0026; Naga, temple of Ammon; p. 64 (leaf n75)
+atE X.tmt tl.w diyXE...
+
+# Meroitic Inscriptions I, no. 28 = REM 0028; Naga, temple of Ammon; p. 64 (leaf n75)
+atE ireqw xwitllw diyXEkete
+
+# Meroitic Inscriptions I, no. 29 = REM 0029; Naga, temple of Ammon; p. 64 (leaf n75)
+amni medes.... .xdsp
+
+# Meroitic Inscriptions I, no. 30 = REM 0030; Naga, temple of Ammon; p. 64 (leaf n75)
+atE X.tmt tl.w diyXE...
+
+# Meroitic Inscriptions I, no. 31 = REM 0031; Naga, temple of Ammon; p. 64 (leaf n75)
+mn.berEte m.StEXepteke.
+
+# Meroitic Inscriptions I, no. 32 = REM 0032; Naga, temple of Ammon; p. 64 (leaf n75)
+atE ireqw xwitllw diyXEkete
+
+# Meroitic Inscriptions I, no. 34 = REM 0034; Naga, temple of Ammon; p. 65 (leaf n76)
+amni ariteN tElktetel ntkmni amnim...l mnitEre arite..mdesl arkxtni mkedkel mdesl Xpl lb.xte
+
+# Meroitic Inscriptions I, no. 35 = REM 0035; Naga, temple of Ammon; p. 63 (leaf n74)
+amni lX ariteN tElktete
+
+# Meroitic Inscriptions I, no. 36 = REM 0036; Naga, temple of Ammon; p. 63 (leaf n74)
+amni nEtete aqedis qEmlis
+
+# Meroitic Inscriptions I, no. 37 = REM 0037; Naga, temple of Ammon; p. 63 (leaf n74)
+amni nEtete aqEdis qEmlis amni lX ariteN tElktete
+
+# Meroitic Inscriptions I, no. 39 = REM 0039; Naga, Temple f (the small temple); p. 66 (n77)
+Snkdxete
+
+# Meroitic Inscriptions I, no. 41 = REM 0041; Wad Ben Naga, the eastern (Isis) temple; pp. 67-68 (n78-n79)
+ntkmni mnitEre
+
+# Meroitic Inscriptions I, no. 42 = REM 0042; Musawwarat es-Sufra; p. 69 (archive.org leaf n80)
+arkiwl nkdyteliSE
+
+# Meroitic Inscriptions I, no. 43 = REM 0043; Musawwarat es-Sufra; p. 69 (n80)
+tbkid
+
+# Meroitic Inscriptions I, no. 44 = REM 0044; Musawwarat es-Sufra; p. 69 (n80)
+wEmnitX kttre dtsXrE lE
+
+# Meroitic Inscriptions I, no. 45 = REM 0045; Umm Soda (reservoir about 40 miles SE of Ba'sa); pp. 69-70 (n80-n81)
+de. lxte s n ke mlElxte s Silw detete tewi e tEXetes mkilw de tetewi e
+
+# Meroitic Inscriptions I, no. 46 = REM 0046; Ba'sa (reservoir with temple of the Lion-god, Wady Awatib); p. 70 (n81)
+qEr mnxble
+
+# Meroitic Inscriptions I, no. 49 = REM 0049; Meroe, pyramids in the plain (group C), Pyr. C 15; p. 73 (n84)
+wESi aSEreyi tktidmniqE dEkrEr erkelE amni teres edxli edxlE atmlE axrkte amlEl XElkte aSi aSEreyi
+
+# Meroitic Inscriptions I, no. 51 = REM 0051; Meroe, pyramids on the hills, Pyr. A 10; p. 75 (n86)
+bkelE ere berekel smlE .e .qE
+
+# Meroitic Inscriptions I, no. 52 = REM 0052; Meroe, pyramids on the hills, Pyr. A 10; p. 75 (n86)
+E.yi bkelE ere berekel smlE
+
+# Meroitic Inscriptions I, no. 53 = REM 0053; Meroe, pyramids on the hills, Pyr. A 10 (as published by Lepsius); p. 76 (n87)
+deqe li w qE
+
+# Meroitic Inscriptions I, no. 54 = REM 0054; Meroe, pyramids on the hills, Pyr. A 10 (as published by Lepsius); p. 76 (n87)
+deqE N li Si
+
+# Meroitic Inscriptions I, no. 55 = REM 0055; Meroe, pyramids on the hills, Pyr. A 15; pp. 76-77 (n87-n88)
+amniSxetEqE
+
+# Meroitic Inscriptions I, no. 56 = REM 0056; Meroe, pyramids on the hills, Pyr. A 15; p. 77 (n88)
+yitek ..niSxetE .....reyi
+
+# Meroitic Inscriptions I, no. 61 = REM 0061; Meroe, pyramids on the hills, Pyr. A 28 (Pl. XXXII); p. 83 (n94)
+.wi XElkte
+
+# Meroitic Inscriptions I, no. 62 = REM 0062; Meroe, pyramids on the hills, Pyr. A 31; p. 83 (n94)
+treken.dlqE
+
+# Meroitic Inscriptions I, no. 63 = REM 0063; Meroe, pyramids on the hills, Pyr. A 31; p. 83 (n94)
+treken.dlqE
+
+# Meroitic Inscriptions I, no. 64 = REM 0064; Meroe, pyramids on the hills, Pyr. A 31; p. 84 (n95)
+dmkteqE xlbi 3 dime 4 kelw qenSkerlE
+
+# Meroitic Inscriptions I, no. 65 = REM 0065; Meroe, pyramids on the hills, Pyr. A 36; p. 85 (n96)
+qE SirlmrEke lX dSlebete lE tqErEyeqE
+
+# Meroitic Inscriptions I, no. 66 = REM 0066; Meroe, pyramids on the hills, Pyr. A 38; p. 85 (n96)
+mnitenmEmide
+
+# Meroitic Inscriptions I, no. 67 = REM 0067; Meroe, pyramids on the hills, Pyr. A 38; p. 85 (n96)
+mnitenmEmide
+
+# Meroitic Inscriptions I, no. 74 = REM 0074; Dangêl (Dungeil), north of the Atbara, within 25 miles of the Fifth Cataract; p. 89 (n100)
+...N x r....... ..tel apile pelimSi.... .li pxemlE qeswi epx... rXe.w Sk mlili b.tite y. b r.btelw a..il diXEde EE.. ke.a.. ...r kpelw S.lw k.nxi. ..iqel bNyESit ..tekinle btwd .......ktXEt.erkelbliNr ..kwti lktd
+
+# Meroitic Inscriptions II, no. 75 = REM 0075; Napata (Gebel Barkal or Merawi: the squeeze is marked Barkal, L., D. gives Merawi); now Berlin Inv. 2258; p. 2 (leaf n21); notes p. 3 (leaf n22)
+aleqes eqeter tklw wES atere kebe teNkel xeNl tewwi aym idi pqEde ipletE nEb teNke iplemketE aterepe bEke tmEt tElw eptereqe te Sd tmEt wES tewi weyi telE teNkel s snsli tnEkedd atre Srbe tewwi iple tes wESp eyke l eqe txnE imre ym kep .wESqEl abe nbtE
+
+# Meroitic Inscriptions II, no. 76 = REM 0076; Gebel Barkal, great temple of Amun (L): column immediately in front of the right-hand pylon tower, facing the passage (found by Breasted, 1906); p. 4 (leaf n23)
+arekete qEli nSper dimel ytekeS tislke 12
+
+# Meroitic Inscriptions II, no. 77 = REM 0077; Gebel Barkal, pyramid 15 (Lepsius), chapel (shrine) on the north-east wall; p. 5 (leaf n24)
+n.d mk
+
+# Meroitic Inscriptions II, no. 78 = REM 0078; Gebel Barkal, pyramid 15 (Lepsius; the only inscribed pyramid, northern group): 78 on the S.W. wall of the shrine, 77 b on the N.E. wall; p. 5 (leaf n24)
+etreteyqE pkrtrl widelE StmdeslE qErpslE pnqEslE
+
+# Meroitic Inscriptions II, no. 79 = REM 0079; Sûlib (Soleb), temple of Amenhotep III: western face of the middle column on the east side of the third court behind the pylon; p. 8 (leaf n27)
+mrEk lElN pmxeq as.tE pim. .Ekeml.
+
+# Meroitic Inscriptions II, no. 80 = REM 0080; Adaye (Sedeinga), necropolis west of the temple (Lepsius); Berlin Inv. 2267; p. 8 (leaf n27)
+...byeqEwi ntdxr ter.....
+
+# Meroitic Inscriptions II, no. 81 = REM 0081; Adaye (Sedeinga), necropolis west of the temple (Lepsius); pp. 8-9 (leaves n27-n28)
+...i xrpxeN atiy........ ...permete lXleb ...eb yed mde...
+
+# Meroitic Inscriptions II, no. 83 = REM 0083; Sai, north end of the island, temple of Tuthmosis III; now in the Khartoum Museum storehouse; p. 9 (leaf n28)
+Sleqeteyi tdxiNtrEr SdEtety lX lemlE Sr..
+
+# Meroitic Inscriptions II, no. 84 = REM 0084; Amâra (Pezeme), east bank, temple of Natakamani and Amanitere: the six columns of the passage; p. 10 (leaf n29), right column; phrases and variants pp. 11-12 (leaves n30-n31)
+...demeteli ntkmni amni medesl mnitEre ariteNl mdesl SErkrEr mkedekel mdesl XtelalEs lbxte
+
+# Meroitic Inscriptions II, no. 85 = REM 0085; Amâra (Pezeme), found with an old woman at Amâra by F. W. Green, December 1909; taken to Halfa for the Sudan Government collection; pp. 13-14 (leaves n32-n33)
+wES qetNyiNli SEri qetrri ademeqElEwi qEqye dxelEwi mnitme erikelEwi SSimete mnitEwi at mxe pSixrkte atE mxe pSEkte
+
+# Meroitic Inscriptions II, no. 86 = REM 0086; Wadi Halfa (Buhen), left bank below the Second Cataract, the southern of the two Egyptian temples of Horus of Buhen; pp. 15-16 (leaves n34-n35)
+treN pesytE arwitE
+
+# Meroitic Inscriptions II, no. 87 = REM 0087; Wadi es-Sabu', Firth's Meroitic cemetery 150 near the Ramesside temple; p. 17 (leaf n36)
+kdiqE mitSlbeqEwi abEsNye tedxelEwi dkrtri lXl yetmdelE mlNtel kdilEwi wESi SEreyi atEmXe pSeXte atetx mlEwi pSitxkete
+
+# Meroitic Inscriptions II, no. 88 = REM 0088; Medik (hamlet of Aqeba, near the Medik station), Lower Nubia; p. 18 (leaf n37), introduced p. 17 (n36)
+tyeSiqEwi SsnE terikelEwi SEnE tedxelEwi pyeSi xbxl mdetEwi pelmES atElis yeredlb qErps xlEd yetmdelEwi mqEl lEmde pelmES yetmdelEwi krErE ptenEwi kdi. .p..... .........N kmEm yetmdelEwi perite wES.. an...... ..............k yemli yetmdelEwi qEreN wESs perite mtwye kd.tEwi yeredlb qEre....
+
+# Meroitic Inscriptions II, no. 89 = REM 0089; Medik (from the filling of a pit grave cleared by Firth at Aqeba, January 1911), Lower Nubia; p. 18 (leaf n37); notes p. 19 (n38)
+qE wyeki yeqE SipeSiye qEresm ye mdemdetE mlEme pelmES yetmdelE mqElteqye pelmES bedewetel yetmdelE pXeme qEre N lXl yetmdelE beke piritel yetmdelE Snptete krErl yetmdelE mtewwi plmES adblit yetmdelE plXn SEbNti penn ani yetekelE SEr qErEdeli yrEXetelE penn 4Nkw xtkelE wESi SEreyi attx mlEle ytxtE
+
+# Meroitic Inscriptions II, no. 91 = REM 0091a; Dakka: isolated table-shaped hill south of Gebel Abu Dirwa, three miles south-west of the temple (Lower Nubia), south side of the hill; p. 23 (leaf n42)
+iliNqE
+
+# Meroitic Inscriptions II, no. 91 = REM 0091b; Dakka: isolated table-shaped hill south of Gebel Abu Dirwa, three miles south-west of the temple (Lower Nubia), east side of the hill; p. 23 (leaf n42)
+SqESkinlE
+
+# Meroitic Inscriptions II, no. 91 = REM 0091c; Dakka: isolated table-shaped hill south of Gebel Abu Dirwa, three miles south-west of the temple (Lower Nubia), west face, clearly visible from below; p. 23 (leaf n42)
+mnpi amSi ameli arptE Si dNxnE anES kinli qE ptrsli nspiniNteqEmlE qE axwES.ps kteteqESk arekili swit
+
+# Meroitic Inscriptions II, no. 92 = REM 0092; Dakka (Pselchis), temple of Thoth of Pnubs, pylon (Lower Nubia); p. 25 (leaf n44) and p. 26 (leaf n45)
+nriteqs qEre trens kdke akidd... s Skte.... abrs... detEkdis..ke detEwES...a brs..d. kdi.... detE........ li abrsli ke detE kdisli a redetE adbwi Ske.kte axmE r pelmESNyi a xrEqe deti Sek
+
+# Meroitic Inscriptions II, no. 94 = REM 0094; Kalabsha (Talmis), great temple of Mandulis, second column of the facade of the hall of columns; pp. 27-29 (leaves n46-n48); notes pp. 28-32
+xrmdEye qEre ariteNl mdes mnitke mkleb yereqe qyitXl yesbEXe qrleb trEs ariteN terekelis dblilx qrke qEre mnptes lw qEreyi tx mnEte s lw txNyi qr ariteNlis lw qrNyi SEb xlbi lis lw SEbNyi tx mnEteslw txNyi arette wESslw xiretteNyi xrpxe mkedEkelislw xrpxeNyi teris mnpte pdXEs tlE lis kidketet yismeniye qErelX yetElxe yiti 4 yEtE ptpEtekye able ywitE swide aqtEye tepke yed mkl tepke ye yk wyed tepke pyk xiwr adE ws pXrs tdEmN aSy kedebxeky qErelik dik pilqEyte bqEk ekS SqyeS nsdEkeS temeyyeS nxbreS bqEbx SimlEk dik pilqEyte bqEl prE dEle plw penn tlte br pxiNl bxemi yenet byekelx dik kdimlEye Sqkdi ptpEtE yismeniye ysbet berSEwi tte ws ayekenl ytpEtE yed ykle arEXetye nle dElk mtel pikedelwi yed ptpEtekye wkdiwikete ttews qErX txeNye tklwi ysbete berekn wi xrpxe detelxl weN yed wEkike tilyeyki wrleb kedebx kdileb mrErleb SSleb kbb te pdXEs lXleb yexEyke yetete mrErbe qeSw adereke mtr ws Xrw pilqEke mtr ws qEre 4 4 Xres wteb axi dete Skle dete wedi nxe mte kdi aqtEyes 2w bqEbte widE xrESyeqE widE yisxteteyeqE bqEbx smle wSi tkbte Ste wes bqEbte SimlEk dik sleleyte mXE temey nsdEke kdike br nxbreS kbx mXEli temeyli dk prE dEle plw penn tlte br kXEle bxemi yenet Xrw adEnilikete yireqw arw ter.kete Xrw sleleke mtr ws yireqw adereke mtr ws qEre ptSide tmEt m....eS ...plN ptmkide tmEt aritele wEkle
+
+# Meroitic Inscriptions II, no. 95 = REM 0095; Philae, Great Temple (Isis), East Colonnade, doorway just south of the Temple of Imuthes, west face of the north jamb, about 7.5 ft above the pavement; p. 50 (leaf n69), Table of Seven Graffiti of Philae, rows A and C; described p. 33 (leaf n52)
+tewisti apEte yeSE wES pileqetel nl berwi
+
+# Meroitic Inscriptions II, no. 96 = REM 0096; Philae, Temple of Isis, First Pylon, north face of the east tower (cut from the roof of the court, about 2.5 m above it); p. 50 (leaf n69), Table of Seven Graffiti of Philae, row A; facsimile p. 33 (leaf n52)
+tewisti tNye wide apEte yeSE
+
+# Meroitic Inscriptions II, no. 97 = REM 0097; Philae, Great Temple of Isis, Meroitic Chamber; p. 37 (leaf n56)
+qE pelmES atElis bekemeteli ste mnitwwiqE wete Siyeteli yetetke wEmNtX pilqetelE ant qEritE Steli qEre smlE xbxN SqtelXlE mlEStEXelE
+
+# Meroitic Inscriptions II, no. 98 = REM 0098; Philae, Great Temple of Isis, Meroitic Chamber; p. 38 (leaf n57)
+qE krErE bekemete mte pelmES a tElit yerikelE mnis mtelE pestElE pelmES adblitE nEbEw kelbE
+
+# Meroitic Inscriptions II, no. 99 = REM 0099; Philae, Temple of Isis, the 'Meroitic Chamber' (second small chamber on the east side of the forecourt, between the two pylons); p. 41 (leaf n60), inline in the commentary
+qE xbxN mStrq yeqE perite wEStE
+
+# Meroitic Inscriptions II, no. 100 = REM 0100; Philae, Temple of Isis, the 'Meroitic Chamber'; p. 41 (leaf n60), inline in the commentary
+mStrq qE qEreN pEnnilitE
+
+# Meroitic Inscriptions II, no. 101 = REM 0101; Philae, Great Temple of Isis, Meroitic Chamber; p. 39 (leaf n58), commentary pp. 39-40
+tdxe mlEqErebr qEret lXidmni ptrEtis lw ar mte kw SdrtelX 2 dE atmi wes 2 keN 2 arite wil 1 wES pilqetel xe 1 wES tebwetel xe 1 tdbtE wES arEl trEt t Sdrte dE akeN tmi keN arEtrEt xe t twdtE aSEri pilqeteleb tbE yini txebtE aSEri tebweteli yni txelE pki wES pilqeteli ti wi wES tebweteli ti wi aSy axe mrxebtE xbxeN qEris mStrq qE yetebxe
+
+# Meroitic Inscriptions II, no. 102 = REM 0102; Philae, Great Temple of Isis, Meroitic Chamber; p. 40 (leaf n59)
+xbxN wESqer qE mStrqyeqE wESi yntke pikl pxilX pli ptrEti pikn pbx
+
+# Meroitic Inscriptions II, no. 103 = REM 0103; Philae, Temple of Isis, the 'Meroitic Chamber'; p. 40 (leaf n59)
+qE mStrq qE wESi bedewi pSdk prE XeN dxe wiyleb ptlteb ptrEti ptrq bEXlekw
+
+# Meroitic Inscriptions II, no. 104 = REM 0104; Philae, Temple of Isis, the 'Meroitic Chamber'; p. 41 (leaf n60)
+qE apmlEqE pelmES adlitE
+
+# Meroitic Inscriptions II, no. 105 = REM 0105; Philae, Temple of Isis, the 'Meroitic Chamber'; p. 37 (leaf n56), inline in the commentary on 97
+qE pelmES atElis mnitwwiqE
+
+# Meroitic Inscriptions II, no. 106 = REM 0106; Philae, temple of Isis, the Meroitic Chamber (second of four small chambers on the east side of the forecourt, between the two pylons, opposite the Birth-house); p. 38 (n57); entry p. 41 (n60)
+qE krErE bekemetelE pestElE
+
+# Meroitic Inscriptions II, no. 107 = REM 0107; Philae, temple of Isis, the Meroitic Chamber (second of four small chambers on the east side of the forecourt, between the two pylons, opposite the Birth-house); p. 38 (n57); entry p. 41 (n60)
+qE krErE bekemetelE pelmES adblitE
+
+# Meroitic Inscriptions II, no. 108 = REM 0108; Philae, temple of Isis, the Meroitic Chamber (second of four small chambers on the east side of the forecourt, between the two pylons, opposite the Birth-house); p. 41 (n60)
+SnneblilE msqetE
+
+# Meroitic Inscriptions II, no. 109 = REM 0109; Philae, temple of Isis, the Meroitic Chamber (second of four small chambers on the east side of the forecourt, between the two pylons, opposite the Birth-house); p. 41 (n60)
+qE mStrqEye wESqerlE
+
+# Meroitic Inscriptions II, no. 110 = REM 0110; Philae, Meroitic Chamber; p. 42 (n61)
+qE xbxelX mStrqyeqE
+
+# Meroitic Inscriptions II, no. 111 = REM 0111; Philae, temple of Isis, the Meroitic Chamber (second of four small chambers on the east side of the forecourt, between the two pylons, opposite the Birth-house); p. 41 (n60), foot of the left column and head of the right
+qE qEreN wESs perite wESs wES qer mStrq ye yewi wESi yntke lw pibr pXe qEleb kSbN wESs btE Skel nxeN
+
+# Meroitic Inscriptions II, no. 112 = REM 0112; Philae, roof of the Birth-house, south side; p. 42 (n61)
+StqE leb n.kete yet XlikmlE qE re nni ditE plmES atElit yetemdelE
+
+# Meroitic Inscriptions II, no. 113 = REM 0113; Philae, roof of the Birth-house, south side; p. 42 (n61)
+StqEleb ad dE.s
+
+# Meroitic Inscriptions II, no. 114 = REM 0114; Philae, roof of the Birth-house, south side; p. 43 (n62)
+StqE smSti Sxi yet
+
+# Meroitic Inscriptions II, no. 116 = REM 0116; Philae, roof of the Birth-house, west side; p. 43 (n62)
+StqE smeti Sxi yeSE mete tiy litE
+
+# Meroitic Inscriptions II, no. 117 = REM 0117; Philae, roof of the Birth-house, north side; p. 43 (n62)
+Stq smeti Sxi ye mte ant pelqete litE
+
+# Meroitic Inscriptions II, no. 118 = REM 0118; Philae, West River-gate (undecorated stone doorway in the enclosure wall, south of Hadrian's gateway and west of the Birth-house); p. 43 (n62)
+wESnSqE metq
+
+# Meroitic Inscriptions II, no. 119 = REM 0119; Philae, Gate of Hadrian, passage walls (south wall); p. 45 (n64)
+yesbEXe tniqE qErE mret mete tlE wES slE
+
+# Meroitic Inscriptions II, no. 120 = REM 0120; Philae, Gate of Hadrian, passage walls (north wall); p. 45 (n64)
+yesbEXe tniqE qErE mret meyte tlE wES slE
+
+# Meroitic Inscriptions II, no. 121 = REM 0121; Philae, Gate of Hadrian: the doorway, in the thickness of the wall, north jamb (the only inscription there); p. 50 (n69)
+tewisti apEte yebye tiSE wES pileqeteli nlw berkelE
+
+# Meroitic Inscriptions II, no. 122 = REM 0122; Philae, Gate of Hadrian: outer face of the west wall of the gateway, south of the gate (looking over to Biga); p. 50 (n69)
+tewisti xbxeN qEris qEreN blyeSE pelmES atElit yetmdelE wES pileqeteli wES tebweteli nlw berwi perite wESt qEreN wESt yetmdelE mey mebrs penylitE mdek pileqetelE mde pXrstelE kSbN wES sbtE
+
+# Meroitic Inscriptions II, no. 123 = REM 0123; Philae, Gate of Hadrian: outer face of the west wall, south of the gateway, a little north of no. 122 and higher up; p. 50 (n69); description p. 48 (n67); English p. 52 (n71)
+tewisti pelmESl yetmde apEte yeSE dilXe tbE wES pileqetel wES tebwetel nbetw yeberwi yiwriyipnE wES mkdilX kSbN wES sbtE
+
+# Meroitic Inscriptions II, no. 124 = REM 0124; Philae, the Town Gate (north end of the island, east shore): passage of the middle arch, S.E. jamb near the S.W. wall, about six feet above the road; p. 50 (n69)
+tewisti aSy yebye tiSE qE wES nlw
+
+# Meroitic Inscriptions II, no. 125 = REM 0125; Philae, loose block on the island; Griffith thinks it may have come from the temple of Harendotes or its approach; p. 50 (n69); description p. 49 (n68); notes pp. 51-52 (n70-n71)
+tewisti pXEpe aSE xbxeN dqtele nxreds keNydi arette te bwetele axrlE
+
+# Meroitic Inscriptions II, no. 126 = REM 0126; Provenance not stated (Griffith links the names to the royal trio of the Lion temple at Naga); Moscow, formerly Golenischeff collection; read from the late owner's photograph; p. 53 (n72)
+ntkmni mnitEre arkxrEr mN xrpxeN w yeqe te nteN qedi te debNqE xrpxeN mkli
+
+# Meroitic Inscriptions II, no. 127 = REM 0127; Provenance unknown (obtained a few years before 1912 in Cairo); Louvre; read from a cast sent by M. Bénédite; p. 53 (n72)
+dqrid bi tNyidmni t ym. kdem
+
+# Meroitic Inscriptions II, no. 129 = REM 0129; Faras: "from the island of Faras" (BM record); Griffith treats the provenance as confirmed by an altar of the same man from the Oxford excavations at Faras 1910-11; pp. 54-55 (n73-n74)
+wESi SEreyi mlEwitrqEwi Syekeli tdxelEwi anSyi Syeteli te rikelEwi qEreN krErElEwi qEreN nkdeyEtEwi wEmnis krErElEwi apEtelX arEmelitEwi apEte mXeyEtEwi apEtelw qErete mXeyEt nte ydi aSxyki ye tekelEwi SSi mete mleyEtEwi apEte XlitetelEwi xlbeN XlitetelEwi qE.Xdx.y akilEpkri ...wdi kxXxsl X...s SqkelEwi xrpxN pXrste atpete yetmdelEwi Si.xXn...tE krErE Sibwi ye yetmdelEwi ateqi SdEsteleb yetmdelEwi belilEke pedemeteleb yetmdelEwi trtekes tketEreteleb yetmdelEwi mleyEs atiyeteleb yetmdelEwi atE mXe yiXekete atmXe pSxrkete xmlElw XElkete wES qetrri mklX qetrri nsdEkel dElekw XElketes
+
+# Meroitic Inscriptions II, no. 130 = REM 0130; Said to be from Dakka (information from Budge); the BM Guide says "from the Sudan (?)"; p. 56 (n75)
+wESi SEreyi qE tebiSilXlEwi antlX qEretite ptenEti terikeli terikelEwi tsyiSe tedxeli tedxelEwi pelmESleb apEteEleb yetmdelE mklXli am mXe piSixrkete xmEmEle xitkkete mlElEwi
+
+# Meroitic Inscriptions II, no. 131 = REM 0131; Not stated; p. 56 (n75)
+wESi SEreyi mklXli yerekiNmrXli bekelXli kelkeni mtlbe tedxeli tedxelebkwi SmtlX qrkili terikeli terikelebkwi SSimete pelmetreyEs mnptme bes XbEye yetmdelebkwi mlkeyEs tepeyetmite yetmdelebkwi atE mXe pSEXebxeketes at mXe yexrbxeketes xmlEl mElbxeketes
+
+# Meroitic Inscriptions II, no. 132 = REM 0132; Not stated by Griffith; FHN III (PDF p. 196) gives REM 0132 as from Faras; p. 57 (n76)
+wESi aSEreyi qE wyeteyeqEwi xlbiN adblitE mlekye xlbiN yitkitelE pelmES tni n.tkelE mlElE aretrEye tdxelE petmES amnitnide terikelE
+
+# Meroitic Inscriptions II, no. 133 = REM 0133; Not stated; p. 57 (n76)
+wES wetNyiN qeli SEri wetrri qE qedi SiyeqEwi Snpteli terikeli terikelEwi qEmye tedxelEwi atEmXe pSiXekete atmXe pSixrkete
+
+# Meroitic Inscriptions II, no. 134 = REM 0134; Purchased by Borchardt at Luxor (with nos. 135, 136); find-place not known; p. 58 (n77)
+wESi SEreyi nEnEyeqE atEmXe pS... atmXE pSixrkete
+
+# Meroitic Inscriptions II, no. 135 = REM 0135; Purchased with no. 134 (Borchardt, Luxor); p. 58 (n77)
+wESi SEreyi pmeteqEwi tebikiqEwi Stemeyye terikelebkwi tyeSi tdxelebkwi atE mXe yEXeb at mXe yixrb xmlEl yitkb
+
+# Meroitic Inscriptions II, no. 136 = REM 0136; Purchased with nos. 134, 135 (Borchardt, Luxor); p. 58 (n77)
+wESi SEreyi abryeqEwi Swe yi bye tedxeli tedxelEwi atE mXe yiXekete at mXe yixrkete
+
+# Meroitic Inscriptions II, no. 137 = REM 0137; Purchased by Schäfer at Aswan, 1909; p. 58 (n77)
+nweliqE mlewye SSiXetelE qErislE kdeyENqE wESi aSEreyi nweliqE kdeyENqE wESi aSEreyi attx mlEli yitxbxte atE mx yiXbxte Xrmx yiwebxte
+
+# Meroe, no. 5 = REM 0405; Meroe City, temple of the lion-god (Apedemak temple, M 6); pp. 62-64 (type on p. 63, archive.org leaf n194)
+wltE wteli etE XtE Xk dqrite apedemk tNyidmni pwrite elxte dqritE XewitE SnE qEre lw ewkenki apedemki w l e.. kkte apedemki
+
+# Meroe, no. 6; Meroe City, temple of the lion-god (Apedemak temple); pp. 64-65 (type on p. 64, leaf n195)
+switw wEyekite qeswi SSiXete qeswi ttN qeswi SStEslw erli axlSte yi.xrtenkelw yEtE qete dewite tendti qErkelw atE xmNimlislw asrE tExktw ..SElw ..Ekx xrqibliq rimlislw wE Sklw a rS
+
+# Meroe, no. 7 = REM 0407; Meroe City, temple of the lion-god (Apedemak temple, M 6); pp. 65-67 (type on p. 65, leaf n196)
+pedemk SEbErete kempl yesbEXe qEre bEwidlE bi...kye wES pileqete Ste pileqe pl yesbEXetEwi ar ywidl pileqe pl ytkidetEwi wES atiyete atiye pl yesbEXetEwi ar atiyete atiye pl ytkidetEwi wES tebwete tebwe pl yesbEXetEwi ar tebwete tebwe pl ytkidetEwi amnpte nptek mk tNyiNwitw ytkidetEwi ....S wlbxetel ywi yiretwi arE xirl webxlit yXi ntmetwi .rekl axNwitw yeritEwi teriS axNwitw ntmetEwi ayiS ayi
+
+# Meroe, no. 8 = REM 0408; Meroe City, temple of the lion-god; pp. 67-69 (type on p. 68, leaf n199)
+pedemk .remyete teqride amni qEre pwide mlEl yes bete SEwte yte bntke tEmlE tmlteke qEleb yerilw yibxebsni ntkelw yibxebsni tmeteke Nwi yitesni ye ypNsni yelbilis ypNsni dimelis ypNsni yelebil as ...i ..dksni yeli yeksni yibx eyksni y...l y...
+
+# Meroe, no. 9 = REM 0409; Meroe City, temple of the lion-god; pp. 68-69 (type on p. 68, leaf n199)
+pedemk Siqyete teqride amni qEre pwide XlEl yesbEXe wete yk atE XlE wdeplke ytwdsni xrim mlE yere txnke yeresni atE beyEtwdy ylsni xrim beyEtry.e wrs ylsni treql ylsni kelw qrsni y tennietilw SEbsni yltetekewi yidxlsni
+
+# Meroe, no. 10 = REM 0410; Meroe City, temple of the lion-god; pp. 69 (type on p. 69, leaf n200)
+pedemk kEbbleteli teqride amni qEre qlite mXelidt rekel alex tenEwitw kmEk yeSw kelt yetre ketes bErXtedx kete lx ytlekete lxeketes atbelw .kide kete ...qelw t
+
+# Meroe, no. 12 = REM 0412; Meroe City, Kenisa or Isis (?) temple (M 600); p. 70 (leaf n201)
+ekete nS widel etktetewi msqNidyi ekete wESwXe etStE teriqqdr qErE amedlerens kdkex pidtd wS lElE
+
+# Meroe, no. 13; Meroe City, temple of Amun, side of the staircase to the westerly chamber (275); pp. 70-71 (type on p. 71, leaf n202)
+wbrxmlE yeSErli yinSi dekeli nkeyi mkedEkeli yinSi dekeli nmerE
+
+# Meroe, no. 14; Meroe City, temple of Amun; p. 71 (leaf n202)
+aleqes mdewetye nXSt dske mni s.. keteli mErl rmnite wte lE
+
+# Meroe, no. 51; Meroe, north group of cemeteries, western portion, grave 415; pp. 77-78 (type on p. 78, leaf n209)
+wES dmte qEli klikelE Sklw mlEn yetlw mlEnki tkkete aSEri pwrit trEy drpN qes drpNk likel
